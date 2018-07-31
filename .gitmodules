@@ -1,0 +1,6 @@
+[submodule "themes/bare-min"]
+	path = themes/bare-min
+	url = https://github.com/kaushalmodi/hugo-bare-min-theme.git
+[submodule "themes/beyond"]
+	path = themes/beyond
+	url = https://github.com/salcan/BeyondNothing.git
