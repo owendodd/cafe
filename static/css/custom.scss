@@ -1,0 +1,62 @@
+// Basics
+
+body {
+	font-family: "Maria", sans-serif;
+	font-size: 24px;
+	max-width: 1200px;
+	margin: auto;
+	padding: 10px 20px;
+	a {
+		text-decoration: none;
+		color: black;
+		cursor: pointer;
+		&:hover {
+			text-decoration: underline;
+		}
+	}
+}
+
+h1 { font-size: 24px; font-weight: normal; }
+h2 { font-size: 24px; font-weight: normal; }
+h3 { font-size: 24px; font-weight: normal; }
+
+// Grid
+
+.three-grid {
+	display: flex;
+	justify-content: space-around;
+	.one-col {
+		width: 30%;
+		text-align: center;	
+	}
+}
+
+
+// Site-nav
+
+.nav {
+	position: fixed;
+	width: 100%;
+	max-width: 1200px;
+}
+
+.name {
+	text-transform: uppercase;
+	a:hover {
+		text-decoration: none;
+	}
+}
+
+.spacer {
+	width: 100%;
+	height: 80px;
+}
+
+
+// Site footer {
+
+	footer div {
+		width: 100%;
+		margin-top: 100px;
+		text-align: center;
+	}
