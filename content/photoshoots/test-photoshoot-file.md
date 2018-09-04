@@ -1,6 +1,5 @@
 +++
 date = "Mar 3, 2018"
-draft = true
 gallery = ["/uploads/180304-31.jpg"]
 parent_project = ""
 thumbnail = "/uploads/180304-31.jpg"
