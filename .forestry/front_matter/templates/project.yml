@@ -1,0 +1,17 @@
+---
+label: Project
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: date
+  label: Date
+  description: Enter editorial date
+  config:
+    required: true
+- type: text
+  label: Title
+  name: title
+  description: Enter editorial title
+  config:
+    required: true
