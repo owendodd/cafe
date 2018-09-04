@@ -5,10 +5,19 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content
-  label: Pages
+  path: content/photoshoots
+  label: Photoshoots
+  create: all
+  match: "**/*"
+  templates:
+  - project
+- type: directory
+  path: content/popups
+  label: Popups
   create: all
   match: "*"
+  templates:
+  - project-group
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
