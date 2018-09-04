@@ -20,6 +20,8 @@ h1 { font-size: 24px; font-weight: normal; }
 h2 { font-size: 24px; font-weight: normal; }
 h3 { font-size: 24px; font-weight: normal; }
 
+
+
 // Grid
 
 .three-grid {
@@ -30,6 +32,7 @@ h3 { font-size: 24px; font-weight: normal; }
 		text-align: center;	
 	}
 }
+
 
 
 // Site-nav
@@ -52,6 +55,19 @@ h3 { font-size: 24px; font-weight: normal; }
 	height: 80px;
 }
 
+
+
+// Site table of contents
+
+.project-group {
+	width: 100%;
+	display: flex;
+	margin-bottom: 40px;
+	font-size: 32px;
+	.leader {
+		flex-grow: 1;
+	}
+}
 
 // Site footer {
 
