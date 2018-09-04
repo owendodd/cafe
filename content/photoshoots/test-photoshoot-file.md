@@ -1,6 +1,9 @@
 +++
-date = "2018-09-04T21:28:27+00:00"
+date = "Mar 3, 2018"
 draft = true
+gallery = ["/uploads/180304-31.jpg"]
+parent_project = ""
+thumbnail = "/uploads/180304-31.jpg"
 title = "Test photoshoot file"
 
 +++
