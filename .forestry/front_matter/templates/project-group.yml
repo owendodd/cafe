@@ -1,0 +1,17 @@
+---
+label: Project-Group
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Address
+  description: Enter address of pop-up
+  name: address
+  config:
+    required: true
+- type: text
+  label: Duration
+  name: duration
+  description: Enter the dates of the pop-up
+  config:
+    required: true
