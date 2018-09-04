@@ -5,15 +5,21 @@ is_partial: false
 fields:
 - type: text
   label: Address
-  description: Enter address of pop-up
+  description: Enter address of popup
   name: address
   config:
     required: true
 - type: text
   label: Duration
   name: duration
-  description: Enter the dates of the pop-up
+  description: Enter the dates of the popup
   config:
     required: true
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: Enter popup thumbnail
+  config:
+    maxSize: '20'
 pages:
 - content/popups/165-duane-st.md
