@@ -13,6 +13,3 @@ fields:
   name: path
   label: Path
   description: Enter page path
-pages:
-- content/about.md
-- content/home.md
