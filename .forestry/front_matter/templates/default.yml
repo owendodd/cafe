@@ -14,4 +14,5 @@ fields:
   label: Path
   description: Enter page path
 pages:
+- info/_index.md
 - content/_index.md
