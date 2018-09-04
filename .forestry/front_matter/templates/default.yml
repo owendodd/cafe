@@ -1,0 +1,15 @@
+---
+label: Default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+  description: Enter page title
+  config:
+    required: true
+- type: text
+  name: path
+  label: Path
+  description: Enter page path
