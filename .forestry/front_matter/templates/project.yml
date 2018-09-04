@@ -4,14 +4,30 @@ hide_body: false
 is_partial: false
 fields:
 - type: text
-  name: date
-  label: Date
-  description: Enter editorial date
+  label: Title
+  name: title
+  description: Enter photoshoot title
   config:
     required: true
 - type: text
-  label: Title
-  name: title
-  description: Enter editorial title
+  name: date
+  label: Date
+  description: Enter photoshoot date
+- type: file
+  name: thumbnail
+  label: Thumbnail
+  description: Enter image for thumbnail
   config:
-    required: true
+    maxSize: '20'
+- type: image_gallery
+  name: gallery
+  label: Gallery
+  description: Enter all images for slideshow
+- type: select
+  config:
+    source:
+      type: pages
+      section: pages
+  label: Parent Project
+  name: parent_project
+  description: Select the parent project for the photoshoot
