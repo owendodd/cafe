@@ -31,3 +31,5 @@ fields:
   label: Parent Project
   name: parent_project
   description: Select the parent project for the photoshoot
+pages:
+- content/photoshoots/test-photoshoot-file.md
