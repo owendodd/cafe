@@ -16,6 +16,11 @@
 {{ partial "site-nav.html" . }}
 {{ partial "site-toc.html" . }}
 
+{{ range .Pages }}
+
+  {{ .Content }}
+  
+{{ end }}
 
 {{ partial "site-footer.html" . }}
 

@@ -3,9 +3,26 @@
   {{ range where .Pages "Section" "popups" }}
 
   <div class="project-group">
-    <div class="title">{{ .Params.address }}</div>
-    <div class="leader"></div>
-    <div class="dates">{{ .Params.duration }}</div>
+
+    <div class="header">
+      <div class="title">{{ .Params.address }}</div>
+      <div class="leader"></div>
+      <div class="dates">{{ .Params.duration }}</div>
+    </div>
+
+    <div class="three-grid">
+      <div class="project-desc"> {{ .Content }} </div>
+
+      <div class="project-grid">
+
+        {{ range where (where .Pages "Section" "photoshoots" ) ".Params.parent_project" .Params.address }} {{ .Title }} {{ end }}
+
+      </div>
+
+    </div>
+
+
+
   </div>
 
   {{ end }}
