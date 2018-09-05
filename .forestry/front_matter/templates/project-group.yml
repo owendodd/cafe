@@ -22,5 +22,6 @@ fields:
   config:
     maxSize: '20'
 pages:
+- content/popups/275-a-malcolm-x-blvd.md
 - content/popups/170a-suffolk-st-pt-2.md
 - content/popups/165-duane-st.md
