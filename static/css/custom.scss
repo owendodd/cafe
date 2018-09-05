@@ -1,7 +1,8 @@
 // Basics
 body {
   font-family: "Maria", sans-serif;
-  font-size: 24px;
+	font-size: 24px;
+	line-height: 1.4;
   max-width: 1200px;
   margin: auto;
   padding: 10px 20px;
@@ -32,14 +33,16 @@ h3 {
 
 // Grid
 .three-grid {
-  display: flex;
-  justify-content: space-around;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 20px;
+	padding: 0 40px;
   .one-col {
-    width: 30%;
+    grid-column: span 1;
     text-align: center;
 	}
 	.two-col {
-		width: 60%;
+		grid-column: span 2;
 	}
 }
 
@@ -63,10 +66,13 @@ h3 {
 }
 
 // Site table of contents
+.project-group {
+	margin-bottom: 40px;
+}
+
 .project-group > .header{
   width: 100%;
   display: flex;
-  margin-bottom: 40px;
   font-size: 32px;
   &:hover {
     cursor: pointer;
