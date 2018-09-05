@@ -1,31 +1,13 @@
 <div class="toc-wrapper">
 
-  {{ range .Pages }}
+  {{ range where .Pages "Section" "popups" }}
 
   <div class="project-group">
-    <div class="title">175 Duane St</div>
+    <div class="title">{{ .Params.address }}</div>
     <div class="leader"></div>
-    <div class="dates">Aug 2–Sep 29, 2018</div>
+    <div class="dates">{{ .Params.duration }}</div>
   </div>
 
   {{ end }}
-
-  <div class="project-group">
-    <div class="title">170A Suffolk St Pt.2</div>
-    <div class="leader"></div>
-    <div class="dates">Apr 1–14, 2018</div>
-  </div>
-
-  <div class="project-group">
-    <div class="title">275 A Malcolm X Blvd</div>
-    <div class="leader"></div>
-    <div class="dates">Dec 1–11, 2017</div>
-  </div>
-
-  <div class="project-group">
-    <div class="title">170A Suffolk St Pt.1</div>
-    <div class="leader"></div>
-    <div class="dates">Sep 19–Oct 3, 2017</div>
-  </div>
 
 </div>
