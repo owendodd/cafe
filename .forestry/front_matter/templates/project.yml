@@ -26,8 +26,13 @@ fields:
 - type: select
   config:
     source:
-      type: pages
+      type: simple
       section: popups
+    options:
+    - 170A Suffolk St Pt.2
+    - 170A Suffolk St Pt.1
+    - 275 A Malcolm X Blvd
+    - 165 Duane St
   label: Parent Project
   name: parent_project
   description: Select the parent project for the photoshoot
