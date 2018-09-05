@@ -27,7 +27,7 @@ fields:
   config:
     source:
       type: pages
-      section: pages
+      section: popups
   label: Parent Project
   name: parent_project
   description: Select the parent project for the photoshoot
