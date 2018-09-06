@@ -10,5 +10,6 @@ fields:
   config:
     required: true
 pages:
+- content/165_duane_st/_index.md
 - info/_index.md
 - content/_index.md
