@@ -17,12 +17,12 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/projects/170a_suffolk_st_pt2
+  path: content/170a_suffolk_st_pt2
   label: 170A Suffolk St (Pt.2)
   create: all
   match: "**/*"
 - type: directory
-  path: content/projects/275a_malcolm_x_blvd
+  path: content/275a_malcolm_x_blvd
   label: 275A Malcolm X Blvd
   create: all
   match: "**/*"
