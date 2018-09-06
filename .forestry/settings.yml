@@ -19,6 +19,11 @@ sections:
   templates:
   - default
 - type: directory
+  path: content/170a_sufflolk_st_pt1
+  label: 170A Suffolk St (Pt.1)
+  create: all
+  match: "**/*"
+- type: directory
   path: content/165_duane_st
   label: 165 Duane St
   create: all
