@@ -12,7 +12,7 @@ sections:
   templates:
   - default
 - type: directory
-  path: content/projects/165_duane_st
+  path: content/165_duane_st
   label: 165 Duane St
   create: all
   match: "**/*"
