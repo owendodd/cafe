@@ -19,6 +19,11 @@ sections:
   templates:
   - default
 - type: directory
+  path: content/165_duane_st
+  label: 165 Duane St
+  create: all
+  match: "**/*"
+- type: directory
   path: content/popups
   label: Popups
   create: all
