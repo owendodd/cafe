@@ -12,7 +12,7 @@ sections:
   templates:
   - default
 - type: directory
-  path: info
+  path: content/info
   label: Info
   create: all
   match: "**/*"
