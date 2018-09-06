@@ -10,5 +10,6 @@ fields:
   config:
     required: true
 pages:
+- content/info.md
 - content/info/_index.md
 - content/_index.md
