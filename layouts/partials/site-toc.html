@@ -1,6 +1,6 @@
 <div class="toc-wrapper">
 
-  {{ range where .Site.Sections "Title" "_index" }}
+  {{ range (where .Site.Sections "Title" "_index").Reverse }}
 
   <div class="project-group">
 
