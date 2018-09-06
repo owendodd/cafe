@@ -22,4 +22,5 @@ fields:
   config:
     maxSize: '20'
 pages:
+- content/projects/170a_suffolk_st_pt2/_index.md
 - content/projects/165_duane_st/_index.md
