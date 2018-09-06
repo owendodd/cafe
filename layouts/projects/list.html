@@ -1,13 +1,15 @@
 <div class="toc-wrapper">
 
-  {{ range where .Site.Sections "Title" "_index" }}
+  {{ if (eq $.Parent.Title "projects") }}
+
+  {{ range .Site.Sections }}
 
   <div class="project-group">
 
     <div class="header">
-      <div class="title">{{.Params.address}}</div>
+      <div class="title">{{.Title}}</div>
       <div class="leader"></div>
-      <div class="dates">{{.Params.duration}}</div>
+      <!-- <div class="dates">{{.Params.duration}}</div> -->
     </div>
 
     <div class="desc three-grid">
@@ -19,9 +21,6 @@
     <div class="projects three-grid">
       {{ range .Pages }}
       <div class="one-col">
-        <div class="thumbnail">
-          <img src="{{.Params.thumbnail}}" alt="thumbnail" />
-        </div>
         <p> {{ .Title }} </p>
       </div>
       {{ end }}
@@ -29,6 +28,7 @@
 
   </div>
 
+  {{ end }}
   {{ end }}
 
 </div>
