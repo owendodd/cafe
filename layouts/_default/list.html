@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+<meta charset="utf-8">
+{{ .Hugo.Generator }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/css/custom.min.css">
+<link rel="stylesheet" href="/css/fonts.min.css">
+<link rel="stylesheet" href="/css/custom.min.css">
+<title>Café Forgot</title>
+</head>
+<body>
+
+<div class="container">
+
+{{ partial "site-nav.html" . }}
+{{ partial "site-toc.html" . }}
+
+  <!-- {{ .Content }} -->
+
+{{ partial "site-footer.html" . }}
+
+</div>
+
+</body>
+</html>
