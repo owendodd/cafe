@@ -37,4 +37,5 @@ fields:
   name: parent_project
   description: Select the parent project for the photoshoot
 pages:
+- content/165_duane_st/india-salvor-menuez-in-chinatown.md
 - content/photoshoots/test-photoshoot-file.md
