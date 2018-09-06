@@ -1,6 +1,8 @@
 +++
-date = "2018-09-06T19:52:35+00:00"
-draft = true
+date = "August 28, 2018"
+gallery = []
+parent_project = ""
+thumbnail = ""
 title = "India Salvor Menuez in Chinatown"
 
 +++
