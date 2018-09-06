@@ -12,13 +12,6 @@ sections:
   templates:
   - default
 - type: directory
-  path: content/info
-  label: Info
-  create: all
-  match: "**/*"
-  templates:
-  - default
-- type: directory
   path: content/projects/165_duane_st
   label: 165 Duane St
   create: all
