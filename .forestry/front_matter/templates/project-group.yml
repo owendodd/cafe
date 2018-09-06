@@ -22,5 +22,6 @@ fields:
   config:
     maxSize: '20'
 pages:
+- content/275a_malcolm_x_blvd/_index.md
 - content/170a_suffolk_st_pt2/_index.md
 - content/165_duane_st/_index.md
