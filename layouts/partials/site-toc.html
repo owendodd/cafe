@@ -19,10 +19,13 @@
     <div class="projects three-grid">
       {{ range .Pages }}
       <div class="one-col">
-        <div class="thumbnail">
-          <img src="{{.Params.thumbnail}}" alt="thumbnail" />
-        </div>
-        <p> {{ .Title }} </p>
+        <a href="{{.Permalink}}">
+          <div class="thumbnail">
+            <img src="{{.Params.thumbnail}}" alt="thumbnail" />
+          </div>
+          <h3> {{ .Params.duration }} </h3>
+          <h3> {{ .Title }} </h3>
+        </a>
       </div>
       {{ end }}
     </div>
