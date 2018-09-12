@@ -1,9 +1,17 @@
+
+
+$(function() {
+  var first_slide = $('.slider>.slide').first();
+
+  first_slide.addClass('show');
+})
+
 $('.next').click(function () {
-  var total_slides = $('.slider.active>.slide').length,
-    current_slide = $('.slider.active>.slide.show'),
+  var total_slides = $('.slider.slide').length,
+    current_slide = $('.slider>.slide.show'),
     current_position = $(current_slide).index() + 1,
 
-    first_slide = $('.slider.active>.slide').first(),
+    first_slide = $('.slider>.slide').first(),
     slide_plus = $(current_slide).next(),
 
     next_slide = current_position == total_slides ? first_slide : slide_plus;
@@ -14,11 +22,11 @@ $('.next').click(function () {
 })
 
 $('.prev').click(function () {
-  var total_slides = $('.slider.active>.slide').length,
-    current_slide = $('.slider.active>.slide.show'),
+  var total_slides = $('.slider>.slide').length,
+    current_slide = $('.slider>.slide.show'),
     current_position = $(current_slide).index() + 1,
 
-    last_slide = $('.slider.active>.slide').last(),
+    last_slide = $('.slider>.slide').last(),
     slide_minus = $(current_slide).prev(),
 
     prev_slide = current_position == 1 ? last_slide : slide_minus;
