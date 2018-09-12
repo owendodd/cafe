@@ -5,10 +5,11 @@
 <h1 class="three-col">{{.Title}}</h2>
 
   <div class="slider">
-      {{ range $index, $value := $files }}
-      {{ $src := strings.TrimPrefix "/static" (add $localFolder $value.Name) }}
-      <img src="{{ $src | relURL }}" id="image_{{ $index }}" alt="{{ $value.Name }}" />
-      {{ end }}
+    {{ range .Params.gallery }}
+    <div class="slide">
+      <img src="{{.}}">
+    </div>
+    {{ end }}
   </div>
 
 </div>
