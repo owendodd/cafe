@@ -23,3 +23,5 @@ fields:
   name: gallery
   label: Gallery
   description: Enter all images for slideshow
+pages:
+- content/165_duane_st/india-salvor-menuz.md
