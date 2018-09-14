@@ -1,24 +1,31 @@
 {{ partial "head.html" . }}
 
 <div class="container slideshow three-grid">
-
-  <h1 class="three-col">{{.Title}}</h2>
-
-    <div class="content">
-
-      <div class="controls">
-        <div class="prev"></div>
-        <div class="next"></div>
-      </div>
-
-      <div class="slider">
-        {{ range .Params.gallery }}
-        <div class="slide">
-          <img src="{{.}}">
-        </div>
-        {{ end }}
-      </div>
+  <div class="one-col">
+    <h1><a href="/">Back</a></h1>
+  </div>
+  <div class="one-col">
+    <h1>{{.Title}}</h1>
+  </div>
+  <div class="one-col">
+    <h1 id="indicator"></h1>
     </div>
+
+  <div class="content">
+
+    <div class="controls">
+      <div class="prev"></div>
+      <div class="next"></div>
+    </div>
+
+    <div class="slider">
+      {{ range .Params.gallery }}
+      <div class="slide">
+        <img src="{{.}}">
+      </div>
+      {{ end }}
+    </div>
+  </div>
 
 </div>
 

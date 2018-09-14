@@ -10,24 +10,26 @@
       <div class="dates">{{.Params.duration}}</div>
     </div>
 
-    <div class="desc three-grid">
-      <div class="two-col"> {{.Content}} </div>
-      <div class="one-col"></div>
-    </div>
-
-
-    <div class="projects three-grid">
-      {{ range .Pages }}
-      <div class="one-col">
-        <a href="{{.Permalink}}">
-          <div class="thumbnail">
-            <img src="{{.Params.thumbnail}}" alt="thumbnail" />
-          </div>
-          <h3> {{ .Params.duration }} </h3>
-          <h3> {{ .Title }} </h3>
-        </a>
+    <div class="expander">
+      <div class="desc three-grid">
+        <div class="two-col"> {{.Content}} </div>
+        <div class="one-col"></div>
       </div>
-      {{ end }}
+
+
+      <div class="projects three-grid">
+        {{ range .Pages }}
+        <div class="one-col">
+          <a href="{{.Permalink}}">
+            <div class="thumbnail">
+              <img src="{{.Params.thumbnail}}" alt="thumbnail" />
+            </div>
+            <h3> {{ .Params.duration }} </h3>
+            <h3> {{ .Title }} </h3>
+          </a>
+        </div>
+        {{ end }}
+      </div>
     </div>
 
   </div>

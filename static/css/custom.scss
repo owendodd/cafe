@@ -40,7 +40,7 @@ h3 {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
 	grid-column-gap: 20px;
-	padding: 0 40px;
+  padding: 0 40px;
   .one-col {
     grid-column: span 1;
     text-align: center;
@@ -79,7 +79,6 @@ h3 {
 }
 
 .thumbnail {
-    
     img {
       width: 100%;
     }
@@ -109,27 +108,17 @@ h3 {
   }
 }
 
-
-
-// Slideshow
-
-.slideshow {
-  h1 {
-    text-align: center;
-    position: fixed;
-    max-width: 1200px;
-    width: 100%;
-  }
+.expander {
+  display: none;
 }
 
+
 // Slideshow
 
 .slideshow {
-  h1 {
+  .one-col {
     text-align: center;
-    position: fixed;
-    max-width: 1200px;
-    width: 100%;
+    z-index: 100;
   }
 }
 
@@ -167,7 +156,7 @@ h3 {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  height: calc(100vh - 80px);
+  height: calc(100vh - 120px);
   width: calc(100vw - 80px);
   .slide {
     height: 100%;
@@ -180,10 +169,6 @@ h3 {
     img {
       height: 100%;
       margin: 10px;
-      &.sm {
-        height: 60%;
-        margin: 40px;
-      }
     }
   }
 }
