@@ -110,6 +110,9 @@ h3 {
 
 .expander {
   display: none;
+  &.show {
+    display: block;
+  }
 }
 
 

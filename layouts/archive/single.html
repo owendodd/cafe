@@ -1,0 +1,54 @@
+{{ partial "head.html" . }}
+
+
+
+<div class="container">
+
+  {{ partial "site-nav.html" . }}
+  <div class="toc-wrapper">
+
+    {{ range (where .Site.Sections "Title" "_index").Reverse }}
+
+    <div class="project-group">
+
+      <a class="header">
+        <div class="title">{{.Params.address}}</div>
+        <div class="leader"></div>
+        <div class="dates">{{.Params.duration}}</div>
+      </a>
+
+      <div class="expander show">
+        <div class="desc three-grid">
+          <div class="two-col"> {{.Content}} </div>
+          <div class="one-col"></div>
+        </div>
+
+
+        <div class="projects three-grid">
+          {{ range .Pages }}
+          <div class="one-col">
+            <a href="{{.Permalink}}">
+              <div class="thumbnail">
+                <img src="{{.Params.thumbnail}}" alt="thumbnail" />
+              </div>
+              <h3> {{ .Params.duration }} </h3>
+              <h3> {{ .Title }} </h3>
+            </a>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+
+    </div>
+
+    {{ end }}
+
+  </div>
+
+  <!-- {{ .Content }} -->
+
+  {{ partial "site-footer.html" . }}
+
+</div>
+
+{{ partial "foot.html" . }}
