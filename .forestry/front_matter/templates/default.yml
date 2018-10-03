@@ -10,5 +10,6 @@ fields:
   config:
     required: true
 pages:
+- content/170a_suffolk_st_pt2/india-2.md
 - content/info.md
 - content/_index.md
