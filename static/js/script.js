@@ -1,3 +1,5 @@
+// Slideshow
+
 $(function() {
   var   first_slide = $('.slider>.slide').first(),
         total_slides =$('.slider>.slide').length;
@@ -30,6 +32,13 @@ $('.prev').click(function () {
   
   $('#indicator').html((prev_slide.index() + 1) + ' / ' + total_slides);
 
-});
+})
 
 });
+
+
+// TOC Expand / Collapse
+
+$('.project-group').click(function () {
+  
+})
