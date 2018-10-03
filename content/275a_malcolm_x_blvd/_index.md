@@ -1,5 +1,5 @@
 +++
-address = "275A Malcolm X Blvd"
+address = "Mirth Studio"
 date = "2018-09-06T20:06:07+00:00"
 duration = "Dec 1–11, 2017"
 thumbnail = ""
