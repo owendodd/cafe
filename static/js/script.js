@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-// Slideshow
-
-$(function() {
-=======
 $(function () {
->>>>>>> 3660282c08a6b8c90831baf4b040fbdb41844362
   var   first_slide = $('.slider>.slide').first(),
         total_slides = $('.slider>.slide').length;
 
