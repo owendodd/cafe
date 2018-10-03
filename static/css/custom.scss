@@ -58,7 +58,7 @@ h3 {
 .nav {
   position: fixed;
   width: 100%;
-  max-width: 1200px;
+  max-width: 1120px;
 }
 
 .name {
@@ -110,6 +110,9 @@ h3 {
 
 .expander {
   display: none;
+  &.show {
+    display: block;
+  }
 }
 
 

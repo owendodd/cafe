@@ -1,14 +1,14 @@
-<div class="toc-wrapper">
+  <div class="toc-wrapper">
 
   {{ range (where .Site.Sections "Title" "_index").Reverse }}
 
   <div class="project-group">
 
-    <div class="header">
+    <a class="header">
       <div class="title">{{.Params.address}}</div>
       <div class="leader"></div>
       <div class="dates">{{.Params.duration}}</div>
-    </div>
+    </a>
 
     <div class="expander">
       <div class="desc three-grid">
