@@ -9,6 +9,10 @@ fields:
   description: Enter page title
   config:
     required: true
+- type: image_gallery
+  name: gallery
+  label: Gallery
+  description: Add images here
 pages:
 - content/info.md
 - content/_index.md
