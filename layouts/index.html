@@ -7,6 +7,10 @@
 {{ partial "site-nav.html" . }}
 {{ partial "site-toc.html" . }}
 
+  {{ range .Params.gallery }}
+        <img class="overlay" src="{{.}}">
+      {{ end }}
+
   <!-- {{ .Content }} -->
 
 {{ partial "site-footer.html" . }}

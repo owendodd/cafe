@@ -74,6 +74,14 @@ h3 {
 }
 
 // Site table of contents
+
+.toc-wrapper {
+  height: 100%;
+  width: 100%;
+  max-width: 1200px;
+  overflow: scroll;
+  position: fixed;
+}
 .project-group {
 	margin-bottom: 40px;
 }
@@ -84,12 +92,24 @@ h3 {
     }
 }
 
+.project-group {
+  position: relative;
+  z-index: 10;
+  &:hover {
+    z-index: 200;
+  }
+}
+
 .project-group > .header{
   width: 100%;
   display: flex;
   font-size: 32px;
+  position: relative;
+  z-index: 10;
   &:hover {
     cursor: pointer;
+    position: relative;
+    z-index: 200;
   }
   .title,
   .dates {
@@ -114,6 +134,10 @@ h3 {
     display: block;
   }
 }
+
+
+
+
 
 
 // Slideshow
@@ -177,10 +201,23 @@ h3 {
 }
 
 
+// Overlay
+.overlay {
+  width:50%;
+  margin-top: 100px;
+  z-index: 100;
+  position: relative;
+  &:first-of-type {
+    margin-top: 50vh;
+  }
+}
+
+
 
 // Site footer {
 footer div {
   width: 100%;
-  margin-top: 100px;
+  max-width:1200px;
   text-align: center;
+  margin: 200px 0 30px; 
 }
