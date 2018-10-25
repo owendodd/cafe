@@ -1,3 +1,7 @@
+@import '_normalize';
+@import '_fonts';
+@import '_sss';
+
 // Basics
 body {
   font-family: "Maria", sans-serif;
@@ -81,6 +85,10 @@ h3 {
   max-width: 1200px;
   overflow: scroll;
   position: fixed;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
 }
 .project-group {
 	margin-bottom: 40px;
@@ -204,7 +212,7 @@ h3 {
 // Overlay
 .overlay {
   width:50%;
-  margin-top: 100px;
+  padding: 100px 0 0;
   z-index: 100;
   position: relative;
   &:first-of-type {

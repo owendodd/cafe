@@ -1,39 +1,38 @@
-  <div class="toc-wrapper">
+<div class="toc-wrapper">
 
-  {{ range (where .Site.Sections "Title" "_index").Reverse }}
+    {{ range (where .Site.Sections "Title" "_index").Reverse }}
 
-  <div class="project-group">
+    <div class="project-group">
 
-    <a class="header">
-      <div class="title">{{.Params.address}}</div>
-      <div class="leader"></div>
-      <div class="dates">{{.Params.duration}}</div>
-    </a>
+      <a class="header">
+        <div class="title">{{.Params.address}}</div>
+        <div class="leader"></div>
+        <div class="dates">{{.Params.duration}}</div>
+      </a>
 
-    <div class="expander">
-      <div class="desc three-grid">
-        <div class="two-col"> {{.Content}} </div>
-        <div class="one-col"></div>
-      </div>
-
-
-      <div class="projects three-grid">
-        {{ range .Pages }}
-        <div class="one-col">
-          <a href="{{.Permalink}}">
-            <div class="thumbnail">
-              <img src="{{.Params.thumbnail}}" alt="thumbnail" />
-            </div>
-            <h3> {{ .Params.duration }} </h3>
-            <h3> {{ .Title }} </h3>
-          </a>
+      <div class="expander">
+        <div class="desc three-grid">
+          <div class="two-col"> {{.Content}} </div>
+          <div class="one-col"></div>
         </div>
-        {{ end }}
+
+
+        <div class="projects three-grid">
+          {{ range .Pages }}
+          <div class="one-col">
+            <a href="{{.Permalink}}">
+              <div class="thumbnail">
+                <img src="{{.Params.thumbnail}}" alt="thumbnail" />
+              </div>
+              <h3> {{ .Params.duration }} </h3>
+              <h3> {{ .Title }} </h3>
+            </a>
+          </div>
+          {{ end }}
+        </div>
       </div>
+
     </div>
 
-  </div>
-
-  {{ end }}
-
+    {{ end }}
 </div>
