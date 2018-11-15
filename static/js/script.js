@@ -35,6 +35,12 @@ $(function () {
 
 });
 
+$('.gallery-image').click(function () {
+  $('.gallery').hide();
+  
+  console.log("hiding");
+});
+
 
 $('.project-group>.header').click(function () {
   var   expander = $(this).siblings();

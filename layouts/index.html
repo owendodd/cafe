@@ -7,9 +7,14 @@
 {{ partial "site-nav.html" . }}
 {{ partial "site-toc.html" . }}
 
+  
+<div class="gallery">
   {{ range .Params.gallery }}
-        <img class="overlay" src="{{.}}">
-      {{ end }}
+  <div class="gallery-image-wrapper">
+    <img class="gallery-image" src="{{.}}">
+  </div>
+  {{ end }}
+</div>
 
   <!-- {{ .Content }} -->
 
