@@ -14,4 +14,4 @@ Press
 
 [Cultured](https://www.culturedmag.com/cafe-forgot/ "Cultured")
 
-[Garage/ Vice]()
+[Garage/ Vice](https://garage.vice.com/en_us/article/8xpnwp/cafe-forgot "Garage/Vice")
