@@ -7,3 +7,4 @@ thumbnail = ""
 title = "_index"
 
 +++
+![](/uploads/CafeForgot_Lida_Look1_012.jpg)
