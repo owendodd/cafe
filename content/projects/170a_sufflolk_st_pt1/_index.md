@@ -7,3 +7,6 @@ thumbnail = "/uploads/7 thumb.jpg"
 title = "_index"
 
 +++
+Photography: Christian DeFonte
+
+Model: Marland Backus
