@@ -6,7 +6,7 @@ title = "Info"
 type = "info"
 
 +++
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Maecenas sed diam eget risus varius blandit sit amet non magna. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+**_Café Forgot_** is a creative retail endeavor founded in 2017 by high school friends Vita Haas and Lucy Weisner focusing on the work of young and avant-garde designers with a DIY approach and slightly-punk ethos. This website is an archive of editorial shoots they have art directed in conjunction with each shop.      
 
 PRESS
 
@@ -15,3 +15,5 @@ PRESS
 [Cultured](https://www.culturedmag.com/cafe-forgot/ "Cultured")
 
 [Garage/ Vice](https://garage.vice.com/en_us/article/8xpnwp/cafe-forgot "Garage/Vice")
+
+Contact
