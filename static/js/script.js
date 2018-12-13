@@ -41,6 +41,19 @@ $('.gallery-image').click(function () {
   console.log("hiding");
 });
 
+$(".gallery > div:gt(0)").hide();
+
+setInterval(function() { 
+  $('.gallery > div:first')
+    .fadeOut(1000)
+    .next()
+    .fadeIn(1000)
+    .end()
+    .appendTo('.gallery');
+},  3000);
+
+
+
 
 $('.project-group>.header').click(function () {
   var   expander = $(this).siblings();
