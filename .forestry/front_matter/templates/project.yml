@@ -24,6 +24,6 @@ fields:
   label: Gallery
   description: Enter all images for slideshow
 pages:
-- content/170a_suffolk_st_pt2/new-project.md
 - content/165_duane_st/claire-mckinney.md
+- content/170a_suffolk_st_pt2/new-project.md
 - content/165_duane_st/india-salvor-menuz.md
