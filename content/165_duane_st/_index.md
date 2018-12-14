@@ -7,4 +7,6 @@ thumbnail = ""
 title = "_index"
 
 +++
-Nullam quis risus eget urna mollis ornare vel eu leo. Maecenas sed diam eget risus varius blandit sit amet non magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Photography: Sara Grace Powell, Allegra Sussman, Christian DeFonte
+
+Models: Sara Grace Powell, Kat da Silva, Sabrina Fuentes, Daniela Lalita, Lulu Bonfils, Maggie Lee, Maia Ruth Lee
