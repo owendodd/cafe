@@ -80,14 +80,9 @@ h3 {
 // Site table of contents
 
 .toc-wrapper {
-  height: 100%;
+  margin-top: 70px;
   width: 100%;
   max-width: 1200px;
-  overflow: scroll;
-  position: fixed;
-  &::-webkit-scrollbar {
-    display: none;
-  }
 
 }
 .project-group {
@@ -235,12 +230,17 @@ h3 {
 }
 
 
-
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height:calc(100vh - 20px);
+}
 
 // Site footer {
-footer div {
+footer {
+  align-self: end;
   width: 100%;
   max-width:1200px;
   text-align: center;
-  margin: 200px 0 30px; 
 }

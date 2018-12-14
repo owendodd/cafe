@@ -35,7 +35,7 @@ $(function () {
 
 });
 
-$('.gallery-image').click(function () {
+$('.gallery').click(function () {
   $('.gallery').hide();
   
   console.log("hiding");
@@ -45,12 +45,12 @@ $(".gallery > div:gt(0)").hide();
 
 setInterval(function() { 
   $('.gallery > div:first')
-    .fadeOut(1000)
+    .fadeOut(0)
     .next()
-    .fadeIn(1000)
+    .fadeIn(0)
     .end()
     .appendTo('.gallery');
-},  3000);
+},  2000);
 
 
 
