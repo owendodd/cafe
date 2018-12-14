@@ -15,16 +15,10 @@ fields:
   description: Enter the dates of the popup
   config:
     required: true
-- type: file
-  name: thumbnail
-  label: Thumbnail
-  description: Enter popup thumbnail
-  config:
-    maxSize: '20'
 - type: image_gallery
-  name: event-slideshow
-  label: event-slideshow
-  description: Add images to appear in a slideshow
+  name: event_slideshow
+  label: Event slideshow
+  description: Add slideshow images here
 pages:
 - content/170a_sufflolk_st_pt1/_index.md
 - content/170a_suffolk_st_pt2/_index.md
