@@ -7,3 +7,6 @@ gallery = []
 title = "_index"
 
 +++
+Photography: Allegra Sussman, Christian DeFonte,
+
+Models: Lila Gold, Maya Laner, Rosy Brown
