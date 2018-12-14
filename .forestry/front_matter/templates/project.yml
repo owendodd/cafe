@@ -23,5 +23,3 @@ fields:
   name: gallery
   label: Gallery
   description: Enter all images for slideshow
-pages:
-- content/170a_suffolk_st_pt2/new-project.md
