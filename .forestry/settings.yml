@@ -12,6 +12,11 @@ sections:
   templates:
   - default
 - type: directory
+  path: content/picture_room
+  label: Picture Room
+  create: all
+  match: "**/*"
+- type: directory
   path: content/165_duane_st
   label: 165 Duane St
   create: all
