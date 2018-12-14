@@ -26,4 +26,5 @@ fields:
   label: event-slideshow
   description: Add images to appear in a slideshow
 pages:
+- content/170a_sufflolk_st_pt1/_index.md
 - content/170a_suffolk_st_pt2/_index.md
