@@ -6,4 +6,6 @@ thumbnail = ""
 title = "_index"
 
 +++
-![](/uploads/CafeForgot_Lida_Look1_012.jpg)
+Photography: Allegra Sussman, Christian DeFonte
+
+Models: Hayett McCarthy, Briar McQuilkin, Bobbi Menuez, Lida Fox, Adinah Dancyger, Paris Reid
