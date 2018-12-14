@@ -2,8 +2,11 @@
 address = "170A Suffolk St (Pt.1)"
 date = "2018-09-06T20:06:41+00:00"
 duration = "Sep 19–Oct 3, 2017"
-thumbnail = ""
+event-slideshow = ["/uploads/7 thumb.jpg", "/uploads/6.jpg", "/uploads/5.jpg", "/uploads/4.jpg", "/uploads/3.jpg", "/uploads/2.jpg", "/uploads/1.jpg"]
+thumbnail = "/uploads/7 thumb.jpg"
 title = "_index"
 
 +++
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Maecenas sed diam eget risus varius blandit sit amet non magna. Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur.
+Photography: Christian DeFonte
+
+Model: Marland Backus
