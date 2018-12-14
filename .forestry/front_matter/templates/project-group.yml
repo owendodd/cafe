@@ -21,3 +21,7 @@ fields:
   description: Enter popup thumbnail
   config:
     maxSize: '20'
+- type: image_gallery
+  name: event-slideshow
+  label: event-slideshow
+  description: Add images to appear in a slideshow
