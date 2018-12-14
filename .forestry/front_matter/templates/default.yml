@@ -15,5 +15,4 @@ fields:
   description: Add images here
 pages:
 - content/_index.md
-- content/picture_room/index.md
 - content/info.md
