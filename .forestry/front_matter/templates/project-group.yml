@@ -16,6 +16,6 @@ fields:
   config:
     required: true
 - type: image_gallery
-  name: event_slideshow
+  name: eventslideshow
   label: Event slideshow
   description: Add slideshow images here
