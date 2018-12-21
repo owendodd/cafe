@@ -1,12 +1,11 @@
 @import '_normalize';
 @import '_fonts';
 @import '_sss';
-
 // Basics
 body {
   font-family: "Maria", sans-serif;
-	font-size: 24px;
-	line-height: 1.4;
+  font-size: 24px;
+  line-height: 1.4;
   max-width: 1200px;
   margin: auto;
   padding: 10px 20px;
@@ -39,23 +38,37 @@ h3 {
   margin: 5px 0;
 }
 
+h4 {
+  font-size: 24px;
+  margin-top: 30px;
+  font-weight: normal;
+}
+
+p {
+  margin: 20px 0;
+}
+
+.info {
+  margin-top: 50px;
+}
+
 // Grid
 .three-grid {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-column-gap: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 20px;
   padding: 0 40px;
   .one-col {
     grid-column: span 1;
     text-align: center;
     width: 100%;
-	}
-	.two-col {
-		grid-column: span 2;
+  }
+  .two-col {
+    grid-column: span 2;
   }
   .three-col {
-		grid-column: span 3;
-	}
+    grid-column: span 3;
+  }
 }
 
 // Site-nav
@@ -78,21 +91,20 @@ h3 {
 }
 
 // Site table of contents
-
 .toc-wrapper {
   margin-top: 70px;
   width: 100%;
   max-width: 1200px;
-
 }
+
 .project-group {
-	margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 
 .thumbnail {
-    img {
-      width: 100%;
-    }
+  img {
+    width: 100%;
+  }
 }
 
 .project-group {
@@ -103,7 +115,7 @@ h3 {
   }
 }
 
-.project-group > .header{
+.project-group>.header {
   width: 100%;
   display: flex;
   font-size: 32px;
@@ -119,7 +131,7 @@ h3 {
     flex: 1 0 auto;
   }
   .leader {
-		flex: 0 1 auto;
+    flex: 0 1 auto;
     &::before {
       display: inline-block;
       height: 1em;
@@ -138,13 +150,7 @@ h3 {
   }
 }
 
-
-
-
-
-
 // Slideshow
-
 .slideshow {
   .one-col {
     text-align: center;
@@ -174,7 +180,7 @@ h3 {
     width: 50vw;
     cursor: w-resize;
   }
-  .next{
+  .next {
     height: 100vh;
     width: 50vw;
     cursor: e-resize;
@@ -203,7 +209,6 @@ h3 {
   }
 }
 
-
 // Gallery
 .gallery {
   position: fixed;
@@ -220,27 +225,26 @@ h3 {
     &:first-of-type {
       display: block;
     }
-  .gallery-image {
-    max-width: 80vw;
-    max-height: 80vh;
-    height: auto;
-    width:auto; 
-  }
+    .gallery-image {
+      max-width: 80vw;
+      max-height: 80vh;
+      height: auto;
+      width: auto;
+    }
   }
 }
-
 
 .container {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  min-height:calc(100vh - 20px);
+  min-height: calc(100vh - 20px);
 }
 
 // Site footer {
 footer {
   align-self: end;
   width: 100%;
-  max-width:1200px;
+  max-width: 1200px;
   text-align: center;
 }
