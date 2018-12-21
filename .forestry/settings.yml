@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: ''
+  label: Events
+  create: all
+  match: content/events/*
+- type: directory
   path: content
   label: Home
   create: all
@@ -36,11 +41,6 @@ sections:
   label: 170A Suffolk St (Pt.1)
   create: all
   match: "**/*"
-- type: directory
-  path: data
-  label: Data
-  create: none
-  match: "**/*.{json,yaml,yml,toml}"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
