@@ -14,5 +14,5 @@ fields:
   label: Gallery
   description: Add images here
 pages:
-- content/_index.md
 - content/info.md
+- content/_index.md
