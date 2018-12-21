@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Events
   create: all
-  match: content/events/*
+  match: "**/*"
 - type: directory
   path: content
   label: Home
