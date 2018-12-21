@@ -159,11 +159,9 @@ p {
 }
 
 .content {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vh;
+  position: relative;
+  width: 100%;
+  height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -171,18 +169,18 @@ p {
 
 .controls {
   z-index: 10;
-  position: fixed;
-  height: 100vh;
-  width: 100vw;
+  position: absolute;
+  height: 100%;
+  width: 100%;
   display: flex;
   .prev {
-    height: 100vh;
-    width: 50vw;
+    height: 100%;
+    width: 50%;
     cursor: w-resize;
   }
   .next {
-    height: 100vh;
-    width: 50vw;
+    height: 100%;
+    width: 50%;
     cursor: e-resize;
   }
 }
@@ -192,10 +190,10 @@ p {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  height: calc(100vh - 120px);
-  width: calc(100vw - 80px);
+  height: 100%;
+  width: 100%;
   .slide {
-    height: 100%;
+    
     display: none;
     justify-content: center;
     align-items: center;
@@ -203,7 +201,8 @@ p {
       display: flex;
     }
     img {
-      height: 100%;
+      max-width:100%;
+      max-height: calc(100vh - 80px);
       margin: 10px;
     }
   }

@@ -5,7 +5,6 @@ duration = "Dec 1–11, 2017"
 eventslideshow = ["/uploads/5-3.jpg", "/uploads/7.JPG", "/uploads/8.JPG", "/uploads/9.JPG", "/uploads/6-2.jpg"]
 open = false
 openingsoon = false
-thumbnail = ""
 title = "mirth_studio"
 
 +++

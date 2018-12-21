@@ -1,6 +1,6 @@
 <div class="toc-wrapper">
 
-    {{ range where .Pages.ByDate "Section" "events" }}
+    {{ range where .Pages.ByDate.Reverse "Section" "events" }}
 
     <div class="project-group">
 
@@ -16,19 +16,22 @@
           <div class="one-col"></div>
         </div>
 
+        <div class="three-grid">
+        <div class="content two-col">
 
-        <div class="projects three-grid">
-          {{ range .Pages }}
-          <div class="one-col">
-            <a href="{{.Permalink}}">
-              <div class="thumbnail">
-                <img src="{{.Params.thumbnail}}" alt="thumbnail" />
+            <div class="controls">
+              <div class="prev"></div>
+              <div class="next"></div>
+            </div>
+        
+            <div class="slider">
+              {{ range .Params.eventslideshow }}
+              <div class="slide">
+                <img src="{{.}}">
               </div>
-              <h3> {{ .Params.duration }} </h3>
-              <h3> {{ .Title }} </h3>
-            </a>
+              {{ end }}
+            </div>
           </div>
-          {{ end }}
         </div>
       </div>
 
