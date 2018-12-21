@@ -37,8 +37,14 @@ $(function () {
 
 $('.gallery').click(function () {
   $('.gallery').hide();
+  $('.controller').addClass('off');
+});
+
+$('.controller').click(function () {
+  $('.gallery').show();
+  $('.controller').removeClass('off');
   
-  console.log("hiding");
+  console.log("on");
 });
 
 $(".gallery > div:gt(0)").hide();
