@@ -19,3 +19,5 @@ fields:
   name: eventslideshow
   label: Event slideshow
   description: Add slideshow images here
+pages:
+- content/events/mirth_studio.md
