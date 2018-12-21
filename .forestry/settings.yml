@@ -16,31 +16,6 @@ sections:
   match: "*"
   templates:
   - default
-- type: directory
-  path: content/picture_room
-  label: Picture Room
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/165_duane_st
-  label: 165 Duane St
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/170a_suffolk_st_pt2
-  label: 170A Suffolk St (Pt.2)
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/275a_malcolm_x_blvd
-  label: 275A Malcolm X Blvd
-  create: all
-  match: "**/*"
-- type: directory
-  path: content/170a_sufflolk_st_pt1
-  label: 170A Suffolk St (Pt.1)
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
