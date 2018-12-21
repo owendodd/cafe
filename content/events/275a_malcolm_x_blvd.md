@@ -3,7 +3,7 @@ address = "Mirth Studio"
 date = "2017-12-11T21:06:07+00:00"
 duration = "Dec 1–11, 2017"
 thumbnail = ""
-title = "_index"
+title = "mirth_studio"
 
 +++
 Photography: Allegra Sussman, Christian DeFonte
