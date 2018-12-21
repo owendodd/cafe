@@ -1,6 +1,6 @@
 +++
 date = "2018-09-06T21:47:19+00:00"
-gallery = []
+gallery = ["/uploads/2-1.jpg", "/uploads/5-1.jpg", "/uploads/9.jpg", "/uploads/6-1.jpg", "/uploads/9.JPG"]
 title = "Info"
 type = "info"
 
