@@ -1,6 +1,6 @@
 +++
 address = "Mirth Studio"
-date = "2018-09-06T20:06:07+00:00"
+date = "2017-12-11T21:06:07+00:00"
 duration = "Dec 1–11, 2017"
 thumbnail = ""
 title = "_index"
