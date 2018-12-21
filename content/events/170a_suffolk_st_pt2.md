@@ -5,7 +5,7 @@ duration = "Apr 1–14, 2018"
 event-slideshow = []
 event_slideshow = ["/uploads/1jpg.jpg", "/uploads/2-2.jpg", "/uploads/3-3.jpg", "/uploads/4-3.jpg", "/uploads/5-3.jpg", "/uploads/6-2.jpg", "/uploads/9.JPG", "/uploads/7.JPG", "/uploads/8.JPG"]
 thumbnail = ""
-title = "_index"
+title = "170a_sufflolk_st_pt2"
 
 +++
 Photography: Allegra Sussman, Christian DeFonte,
