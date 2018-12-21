@@ -3,6 +3,10 @@ label: Project-Group
 hide_body: false
 is_partial: false
 fields:
+- type: datetime
+  label: Date
+  name: date
+  description: Add end date of event
 - type: text
   label: Address
   description: Enter address of popup
@@ -19,5 +23,13 @@ fields:
   name: eventslideshow
   label: Event slideshow
   description: Add slideshow images here
+- type: boolean
+  name: open
+  label: Open
+  description: Select if the event is open
+- type: boolean
+  name: openingsoon
+  label: Opening Soon
+  description: Select if the event is opening soon
 pages:
 - content/events/mirth_studio.md
