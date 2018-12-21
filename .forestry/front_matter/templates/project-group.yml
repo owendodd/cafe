@@ -32,5 +32,6 @@ fields:
   label: Opening Soon
   description: Select if the event is opening soon
 pages:
+- content/events/picture_room.md
 - content/events/mirth_studio.md
 - content/events/170a_sufflolk_st_pt1.md
