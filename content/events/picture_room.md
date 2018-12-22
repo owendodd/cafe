@@ -2,7 +2,7 @@
 address = "Picture Room"
 date = "2018-11-19T02:41:54+00:00"
 duration = "Nov 10–18, 2018"
-eventslideshow = ["/uploads/1 thumb.jpg", "/uploads/2-1.jpg", "/uploads/3-1.jpg", "/uploads/4-1.jpg", "/uploads/5-1.jpg", "/uploads/6a.jpg", "/uploads/7.jpg", "/uploads/8.jpg"]
+eventslideshow = ["/uploads/pictureroom-1.jpg", "/uploads/pictureroom-2.jpg", "/uploads/pictureroom-3.jpg", "/uploads/pictureroom-4.jpg", "/uploads/pictureroom-5.jpg", "/uploads/pictureroom-6.jpg", "/uploads/pictureroom-7.jpg", "/uploads/pictureroom-8.jpg"]
 open = false
 openingsoon = false
 title = "picture_room"
