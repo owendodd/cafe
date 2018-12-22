@@ -1,6 +1,13 @@
 @import '_normalize';
 @import '_fonts';
-@import '_sss';
+// @import '_sss';
+
+// Mixins
+@mixin transition {
+  -webkit-transition: all 100ms ease;
+  transition: all 100ms ease;
+}
+
 // Basics
 body {
   font-family: "Maria", sans-serif;
@@ -13,8 +20,9 @@ body {
     text-decoration: none;
     color: black;
     cursor: pointer;
+    @include transition;
     &:hover {
-      text-decoration: underline;
+      color: lightgray;
     }
   }
 }
@@ -184,10 +192,9 @@ p {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  height: 100%;
+  height: 66%;
   width: 100%;
   .slide {
-    
     display: none;
     justify-content: center;
     align-items: center;
@@ -196,8 +203,7 @@ p {
     }
     img {
       max-width:100%;
-      max-height: calc(100vh - 80px);
-      margin: 10px;
+      max-height: calc(72vh);
     }
   }
 }
@@ -244,6 +250,7 @@ p {
   box-sizing: border-box;
   background-color: black;
   cursor: pointer;
+  @include transition;
   &.off {
     background-color: white;
     border: 3px solid black;
