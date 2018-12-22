@@ -18,8 +18,6 @@ $(function () {
 
     $('#indicator').html((next_slide.index() + 1) + ' / ' + total_slides);
 
-    console.log(total_slides);
-
   });
 
 

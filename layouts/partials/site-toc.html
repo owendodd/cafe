@@ -1,41 +1,42 @@
 <div class="toc-wrapper">
 
-    {{ range where .Pages.ByDate.Reverse "Section" "events" }}
+  {{ range where .Pages.ByDate.Reverse "Section" "events" }}
 
-    <div class="project-group">
+  <div class="project-group">
 
-      <a class="header">
-        <div class="title">{{.Params.address}}</div>
-        <div class="leader"></div>
-        <div class="dates">{{.Params.duration}}</div>
-      </a>
+    <a class="header">
+      <div class="title">{{.Params.address}}</div>
+      <div class="leader"></div>
+      <div class="dates">{{.Params.duration}}</div>
+    </a>
 
-      <div class="expander">
-        <div class="desc three-grid">
-          <div class="two-col"> {{.Content}} </div>
-          <div class="one-col"></div>
-        </div>
+    <div class="expander">
+      <div class="three-grid">
+        <div class="content three-col">
 
-        <div class="three-grid">
-        <div class="content two-col">
+          <div class="controls">
+            <div class="prev"></div>
+            <div class="next"></div>
+          </div>
 
-            <div class="controls">
-              <div class="prev"></div>
-              <div class="next"></div>
+          <div class="slider">
+            {{ range .Params.eventslideshow }}
+            <div class="slide">
+              <img src="{{.}}">
             </div>
-        
-            <div class="slider">
-              {{ range .Params.eventslideshow }}
-              <div class="slide">
-                <img src="{{.}}">
-              </div>
-              {{ end }}
-            </div>
+            {{ end }}
           </div>
         </div>
       </div>
 
+      <div class="desc three-grid">
+        <h3 class="two-col">{{.Content}}</h3>
+        <div class="one-col"></div>
+      </div>
+
     </div>
 
-    {{ end }}
+  </div>
+
+  {{ end }}
 </div>
