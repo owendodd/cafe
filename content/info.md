@@ -10,12 +10,14 @@ CAFÉ FORGOT is a creative retail endeavor founded in 2017 by high school friend
 CAFÉ FORGOT works with these designers and artists:  
 Alexa Stark, Alterita, Annabell Lee, Anna Pierce, Autobody Clothing, Balin, Brie Moreno, Bror August, By Tyler, Carolyn Killcoyne Voyta, Christie Keshet, Claire Mckinney, CM Carney, Delicate Porcelain, EDIE, Femail Forever, Francesca Longo, Gauntlett Cheng, HELENAMANZANO, Jessica Butler, JRAT, KAHLE, Kira Scirbin, Kristin Mallison, Lou Dallas, Liv Ryan, Marland Backus, Maroske Peech, Martina Cox, Merritt Deth, Mila Sullivan, Molly Rose Lieberman, Nicole Van Vuuren, Onea, Pearle Knits, Piera Bochner, Poche, Sara Brooks, Sophie Andes-Gascon, Susannah Lee Cutler, Teva Livne, Tropical Rob, Zelda Passini
 
-#### PRESS  
+#### Press
+
 [Vogue](https://www.vogue.com/article/cafe-forgot-vita-haas-lucy-weisner "Vogue")  
 [Cultured](https://www.culturedmag.com/cafe-forgot/ "Cultured")  
 [Garage/ Vice](https://garage.vice.com/en_us/article/8xpnwp/cafe-forgot "Garage/Vice")
 
-#### CONTACT  
+#### Contact
+
 [cafeforgotnyc@gmail.com](mailto:cafeforgotnyc@gmail.com "cafeforgotnyc@gmail.com")  
 [@cafe_forgot](https://www.instagram.com/cafe_forgot/?hl=en "@cafe_forgot")
 
