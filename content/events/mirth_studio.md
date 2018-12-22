@@ -2,7 +2,7 @@
 address = "Mirth Studio"
 date = "2017-12-11T21:06:07+00:00"
 duration = "Dec 1–11, 2017"
-eventslideshow = ["/uploads/5-3.jpg", "/uploads/7.JPG", "/uploads/8.JPG", "/uploads/9.JPG", "/uploads/6-2.jpg"]
+eventslideshow = ["/uploads/1-1.JPG", "/uploads/2-1.JPG", "/uploads/3.JPG", "/uploads/4 copy.jpg", "/uploads/5-4.jpg", "/uploads/6-3.jpg", "/uploads/7 thumb-1.jpg", "/uploads/8-2.jpg", "/uploads/9-1.jpg", "/uploads/10.jpg"]
 open = false
 openingsoon = false
 title = "mirth_studio"
