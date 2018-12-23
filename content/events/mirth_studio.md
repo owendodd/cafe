@@ -8,6 +8,4 @@ openingsoon = false
 title = "mirth_studio"
 
 +++
-Photography: Allegra Sussman, Christian DeFonte
-
-Models: Hayett McCarthy, Briar McQuilkin, Bobbi Menuez, Lida Fox, Adinah Dancyger, Paris Reid
+Photography: Allegra Sussman, Christian DeFonte. Models: Hayett McCarthy, Briar McQuilkin, Bobbi Menuez, Lida Fox, Adinah Dancyger, Paris Reid.
