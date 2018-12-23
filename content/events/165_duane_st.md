@@ -8,6 +8,4 @@ openingsoon = false
 title = "165_duane_st"
 
 +++
-Photography: Sara Grace Powell, Allegra Sussman, Christian DeFonte
-
-Models: Sara Grace Powell, Kat da Silva, Sabrina Fuentes, Daniela Lalita, Lulu Bonfils, Maggie Lee, Maia Ruth Lee
+Photography: Sara Grace Powell, Allegra Sussman, Christian DeFonte. Models: Sara Grace Powell, Kat da Silva, Sabrina Fuentes, Daniela Lalita, Lulu Bonfils, Maggie Lee, Maia Ruth Lee.
