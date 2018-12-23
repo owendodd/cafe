@@ -20,7 +20,7 @@ fields:
 pages:
 - content/_index.md
 - content/info.md
-- content/designers/alexa-stark.md
 - content/designers/alterita.md
-- content/designers/anna-pierce.md
 - content/designers/annabell-p-lee.md
+- content/designers/alexa-stark.md
+- content/designers/anna-pierce.md
