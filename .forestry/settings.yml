@@ -9,8 +9,6 @@ sections:
   label: Home
   create: all
   match: "*"
-  templates:
-  - default
 - type: directory
   path: content/events
   label: Events
