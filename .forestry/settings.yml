@@ -5,15 +5,22 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: Home
+  create: all
+  match: "*"
+  templates:
+  - default
+- type: directory
   path: content/events
   label: Events
   create: all
   match: "*"
 - type: directory
-  path: content
-  label: Home
+  path: content/designers
+  label: Designers
   create: all
-  match: "*"
+  match: "**/*"
   templates:
   - default
 upload_dir: static/uploads
