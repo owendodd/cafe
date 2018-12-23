@@ -20,7 +20,7 @@ sections:
   path: content/designers
   label: Designers
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - default
 upload_dir: static/uploads
