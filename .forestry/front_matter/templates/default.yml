@@ -1,5 +1,5 @@
 ---
-label: Default
+label: designer
 hide_body: false
 is_partial: false
 fields:
@@ -9,6 +9,10 @@ fields:
   description: Enter page title
   config:
     required: true
+- type: text
+  name: name
+  label: Name
+  description: Enter designer name
 - type: image_gallery
   name: gallery
   label: Gallery
