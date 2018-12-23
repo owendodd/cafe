@@ -1,0 +1,13 @@
+---
+label: Link
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: link_title
+  label: Link title
+  description: Enter link title here
+- type: text
+  name: link_url
+  label: Link URL
+  description: Enter link URL here
