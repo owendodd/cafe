@@ -1,12 +1,35 @@
 {{ partial "head.html" . }}
 
-
-
 <div class="container">
 
-{{ partial "site-nav.html" . }}
-{{ partial "site-toc.html" . }}
+  <header class="three-grid nav">
+  
+    <div class="one-col">
+      <h1 class="name"><a href="/">Café Forgot</a></h1>
+    </div>
+  
+    <div class="one-col">
+      <h1><a href="/archive">Archive</a>, <a href="/info">Information</a></h1>
+    </div>
+  
+    <div class="one-col">
+      <span class="controller"></span>
+      <span class="controller"></span>
+    </div>
+  
+  
+  </header>
+  
+  <div class="gallery">
+    {{ range .Params.gallery }}
+    <div class="gallery-image-wrapper">
+      <img class="gallery-image" src="{{.}}">
+    </div>
+    {{ end }}
+  </div>
 
+
+{{ partial "site-toc.html" . }}
 
   <!-- {{ .Content }} -->
 
