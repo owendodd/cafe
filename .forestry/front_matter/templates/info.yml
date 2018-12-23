@@ -27,3 +27,4 @@ fields:
   description: Enter page type here
 pages:
 - content/info.md
+- content/designers/index.md
