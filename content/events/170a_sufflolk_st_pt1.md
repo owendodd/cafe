@@ -9,6 +9,4 @@ openingsoon = false
 title = "170a_sufflolk_st_pt1"
 
 +++
-Photography: Christian DeFonte
-
-Model: Marland Backus
+Photography: Christian DeFonte. Model: Marland Backus.
