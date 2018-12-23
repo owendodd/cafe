@@ -53,8 +53,9 @@ h3 {
 
 h4 {
   font-size: 24px;
-  margin: 30px 0;
+  margin: 30px 0 10px;
   font-weight: normal;
+  text-transform: uppercase;
 }
 
 p {
@@ -63,7 +64,12 @@ p {
 
 .info {
   margin-top: 50px;
+  .list-link {
+    padding-right: 15px;
+  }
 }
+
+
 
 // Grid
 .three-grid {
@@ -156,7 +162,7 @@ p {
   }
 }
 
-.expander {
+.toc-expander {
   display: none;
   &.show {
     display: block;
@@ -274,6 +280,7 @@ p {
     border: 3px solid black;
   }
 }
+
 
 // Site footer {
 footer {

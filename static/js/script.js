@@ -74,6 +74,6 @@ $('.project-group>.header').click(function () {
 $('#archive').click(function () {
 
   $('.overlay').addClass('hide');
-  $('.project-group>.expander').addClass('show');
+  $('.project-group>.toc-expander').addClass('show');
 
 });

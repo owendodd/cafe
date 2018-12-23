@@ -2,8 +2,20 @@
 {{ partial "site-nav.html"}}
 
 <div class="desc three-grid info">
-  <div class="two-col"> {{.Content}} </div>
-  <div class="one-col"></div>
+  <div class="two-col"> 
+   <div> {{.Content}} </div>
+   <h4>Press</h4>
+      {{ range .Params.press }}
+      <a class="list-link" href="{{ .link_url }}">{{ .link_title }}</a> 
+      {{ end }}
+
+      <h4>Contact</h4>
+      {{ range .Params.contact }}
+      <a class="list-link" href="{{ .link_url }}">{{ .link_title }}</a> 
+      {{ end }}
+  <div class="one-col list">
+      
+  </div>
 </div>
 
 {{ partial "foot.html" . }}
