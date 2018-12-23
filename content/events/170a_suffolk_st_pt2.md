@@ -8,6 +8,4 @@ openingsoon = false
 title = "170a_sufflolk_st_pt2"
 
 +++
-Photography: Allegra Sussman, Christian DeFonte,
-
-Models: Katerina Tannenbaum, Erika Spring, Zoe Elise Bullock, Paulena Lynch
+Photography: Allegra Sussman, Christian DeFonte. Models: Katerina Tannenbaum, Erika Spring, Zoe Elise Bullock, Paulena Lynch.
