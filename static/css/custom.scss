@@ -232,6 +232,11 @@ p {
   }
 }
 
+.blur {
+  -webkit-filter: blur(10px); 
+  filter: blur(10px);
+}
+
 .container {
   display: flex;
   flex-direction: column;
