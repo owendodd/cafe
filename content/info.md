@@ -1,6 +1,5 @@
 +++
 date = "2018-12-23T06:29:24+00:00"
-draft = true
 title = "info"
 [[contact]]
 link_title = "cafeforgotnyc@gmail.com"
