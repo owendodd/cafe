@@ -8,4 +8,4 @@ openingsoon = false
 title = "picture_room"
 
 +++
-Photography: Allegra Sussman, Christian DeFonte. Models: Lila Gold, Maya Laner, Rosy Brown
+Photography: Allegra Sussman, Christian DeFonte. Models: Lila Gold, Maya Laner, Rosy Brown.
