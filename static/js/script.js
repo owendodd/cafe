@@ -80,7 +80,7 @@ $('#archive').click(function () {
 
 
 $(function() {
-  var loc = window.location.href; // returns the full URL
+  var loc = window.location.href;
   if(/designers/.test(loc)) {
     $('.toc-wrapper, footer').removeClass('blur');
   }
@@ -88,3 +88,5 @@ $(function() {
     $('.toc-wrapper, footer').removeClass('blur');
   }
 });
+
+

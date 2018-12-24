@@ -335,7 +335,13 @@ footer {
 
 
 // Designer page
-
-.design-expander {
-  display: none;
+.design-expand-container {
+  display: inline-block;
+  a {
+    display: inline-block;
+    padding-right: 15px;
+  }
+  .design-expander {
+    display: none;
+  }
 }

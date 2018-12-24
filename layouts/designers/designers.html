@@ -6,7 +6,7 @@
     <p>CAFÉ FORGOT works with these designers and artists:</p>
     {{ range where .Pages "Section" "designers" }}
     <div class="design-expand-container">
-      <a>{{ .designer-name }}</a>
+      <a>{{ .Params.designer }}</a>
       <div class="design-expander">{{ .Content }}</div>
     </div>
     {{ end }}
