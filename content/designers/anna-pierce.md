@@ -2,7 +2,6 @@
 date = "2018-12-23T06:15:27+00:00"
 designer-name = "Anna Pierce"
 gallery = []
-name = "Anna Pierce"
 title = "anna-pierce"
 
 +++

@@ -2,7 +2,6 @@
 date = "2018-12-23T06:13:50+00:00"
 designer-name = "Alterita"
 gallery = []
-name = "Alterita"
 title = "alterita"
 
 +++

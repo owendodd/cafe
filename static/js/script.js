@@ -77,3 +77,14 @@ $('#archive').click(function () {
   $('.project-group>.toc-expander').addClass('show');
 
 });
+
+
+$(function() {
+  var loc = window.location.href; // returns the full URL
+  if(/designers/.test(loc)) {
+    $('.toc-wrapper, footer').removeClass('blur');
+  }
+  if(/info/.test(loc)) {
+    $('.toc-wrapper, footer').removeClass('blur');
+  }
+});

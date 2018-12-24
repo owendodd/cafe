@@ -2,6 +2,7 @@
 date = "2018-12-23T06:29:24+00:00"
 title = "info"
 type = "info"
+layout = "info"
 [[contact]]
 link_title = "cafeforgotnyc@gmail.com"
 link_url = "mailto:cafeforgotnyc@gmail.com"

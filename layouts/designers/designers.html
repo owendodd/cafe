@@ -1,16 +1,17 @@
 {{ partial "head.html" . }}
-{{ partial "site-nav.html"}}
+{{ partial "site-nav.html" . }}
 
 <div class="desc three-grid info">
   <div class="two-col">
     <p>CAFÉ FORGOT works with these designers and artists:</p>
     {{ range where .Pages "Section" "designers" }}
     <div class="design-expand-container">
-      <a>{{ .name }}</a>
+      <a>{{ .designer-name }}</a>
       <div class="design-expander">{{ .Content }}</div>
     </div>
     {{ end }}
   </div>
 </div>
 
+{{ partial "site-footer.html" . }}
 {{ partial "foot.html" . }}
