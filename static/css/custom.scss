@@ -7,12 +7,6 @@
   transition: all 100ms ease;
 }
 
-@mixin cursor ($cursor-name, $fallback) {
-  cursor: url("/assets/$cursor-name.png") 16 16, $fallback;
-  cursor: url("/assets/$cursor-name.svg") 16 16, $fallback;
-  cursor: -webkit-image-set(url("/assets/$cursor-name.png") 1x, url("/assets/$cursor-name@2x.png") 2x) 16 16, $fallback;
-}
-
 // Basics
 body {
   font-family: "Maria", sans-serif;
@@ -92,6 +86,7 @@ p {
   text-transform: uppercase;
   a:hover {
     text-decoration: none;
+    color: black;
   }
 }
 
@@ -159,6 +154,29 @@ p {
     display: block;
   }
 }
+
+.opennow, .opensoon {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 100px;
+  left: 0;
+  right: 0;
+  font-size: 16px;
+  padding: 8px 10px 6px;
+  border: 3px solid black;
+  border-radius: 6px;
+  text-transform: uppercase;
+  background-color: white;
+  color: black;
+  transform: rotate(-8deg);
+  &:hover  {
+    color: black;
+  }
+
+}
+
 
 // Slideshow
 .content {
@@ -333,22 +351,25 @@ footer {
   }
 }
 
-
 // Designer page
-.design-expand-container {
-  display: inline-block;
+.bio-expand-container {
+  display: inline;
   a {
     display: inline-block;
     padding-right: 15px;
-    .inactive {
-      -webkit-filter: blur(10px);
-      filter: blur(10px);
+    &.inactive {
+      -webkit-filter: blur(5px);
+      filter: blur(5px);
+    }
+    &:hover {
+      -webkit-filter: blur(0px);
+      filter: blur(0px);
     }
   }
-  .design-expander {
+  .bio-expander {
     display: none;
-    .show {
-      display: block;
+    &.show {
+      display: inline;
     }
   }
 }

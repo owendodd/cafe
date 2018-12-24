@@ -79,27 +79,44 @@ $('#archive').click(function () {
 });
 
 
-$(function() {
+$(function () {
   var loc = window.location.href;
-  if(/designers/.test(loc)) {
+  if (/designers/.test(loc)) {
     $('.toc-wrapper, footer').removeClass('blur');
   }
-  if(/info/.test(loc)) {
+  if (/info/.test(loc)) {
     $('.toc-wrapper, footer').removeClass('blur');
   }
 });
 
 
-$('.design-expand-container>a').click(function () {
-  var expand = $(this).closest('.design-expand-container').children('.design-expander');
+$('.bio-expand-container>a').click(function () {
+  var expand = $(this).parent().children('.bio-expander');
 
-  $('.design-expander').removeClass('show');
-  expand.addClass('show');
-  $('.design-expand-container>a').addClass('inactive');
-  $(this).removeClass('.inactive');
 
-  console.log('click working');
+  if ($(expand).hasClass('show')) {
+    $('.bio-expander').not(expand).removeClass('show');
+    expand.toggleClass('show');
+    $('.bio-expand-container a').removeClass('inactive');
+  }
+  else {
+    $('.bio-expander').not(expand).removeClass('show');
+    expand.toggleClass('show');
+    $('.bio-expand-container a').addClass('inactive');
+    $(this).removeClass('inactive');
+  }
+
+
+});
+
+
+$(function () {
+  var open     = $('.project-group[data-open="true"]'),
+      opensoon = $('.project-group[data-opensoon="true"]');
+
+  open.children('.header').append('<div class="opennow">Open now</div>');
+  opensoon.children('.header').append('<div class="opensoon">Opening soon</div>');
+
+  console.log(open.children('.header'));
   
-
-
-})
+});

@@ -2,7 +2,7 @@
 
   {{ range where .Pages.ByDate.Reverse "Section" "events" }}
 
-  <div class="project-group">
+  <div class="project-group" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}">
 
     <a class="header">
       <div class="title">{{.Params.address}}</div>
