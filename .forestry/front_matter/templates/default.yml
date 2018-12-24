@@ -10,8 +10,8 @@ fields:
   config:
     required: true
 - type: text
-  name: name
-  label: Name
+  name: designer-name
+  label: Designer Name
   description: Enter designer name
 - type: image_gallery
   name: gallery
