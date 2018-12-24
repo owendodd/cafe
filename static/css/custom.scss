@@ -207,6 +207,7 @@ p {
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
+  margin: 20px 0 20px;
   .slide {
     display: none;
     justify-content: center;
@@ -216,7 +217,8 @@ p {
     }
     img {
       max-width: 100%;
-      max-height: calc(72vh);
+      height: 80vh;
+      max-height: 1000px;
     }
   }
 }

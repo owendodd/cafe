@@ -40,13 +40,13 @@ $(function () {
 $('.gallery').click(function () {
   $('.gallery').hide();
   $('.controller').addClass('off');
-  $('.toc-wrapper').removeClass('blur');
+  $('.toc-wrapper, footer').removeClass('blur');
 });
 
 $('.controller').click(function () {
   $('.gallery').show();
   $('.controller').removeClass('off');
-  $('.toc-wrapper').addClass('blur');
+  $('.toc-wrapper, footer').addClass('blur');
 });
 
 $(".gallery > div:gt(0)").hide();
