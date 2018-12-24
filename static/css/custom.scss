@@ -8,9 +8,9 @@
 }
 
 @mixin cursor ($cursor-name, $fallback) {
-  cursor: url("/assets/$cursor-name.png") 0 0, $fallback;
-  cursor: url("/assets/$cursor-name.svg") 0 0, $fallback;
-  cursor: -webkit-image-set(url("/assets/$cursor-name.png") 1x, url("/assets/$cursor-name@2x.png") 2x) 0 0, $fallback;
+  cursor: url("/assets/$cursor-name.png") 16 16, $fallback;
+  cursor: url("/assets/$cursor-name.svg") 16 16, $fallback;
+  cursor: -webkit-image-set(url("/assets/$cursor-name.png") 1x, url("/assets/$cursor-name@2x.png") 2x) 16 16, $fallback;
 }
 
 // Basics
@@ -179,16 +179,16 @@ p {
   .prev {
     height: 100%;
     width: 50%;
-    cursor: url("/assets/cursor-left.png") 0 0, w-resize;
-    cursor: url("/assets/cursor-left.svg") 0 0, w-resize;
-    cursor: -webkit-image-set(url("/assets/cursor-left.png") 1x, url("/assets/cursor-left@2x.png") 2x) 0 0, w-resize;
+    cursor: url("/assets/cursor-left.png") 16 16, w-resize;
+    cursor: url("/assets/cursor-left.svg") 16 16, w-resize;
+    cursor: -webkit-image-set(url("/assets/cursor-left.png") 1x, url("/assets/cursor-left@2x.png") 2x) 16 16, w-resize;
   }
   .next {
     height: 100%;
     width: 50%;
-    cursor: url("/assets/cursor-right.png") 0 0, e-resize;
-    cursor: url("/assets/cursor-right.svg") 0 0, e-resize;
-    cursor: -webkit-image-set(url("/assets/cursor-right.png") 1x, url("/assets/cursor-right@2x.png") 2x) 0 0, e-resize;
+    cursor: url("/assets/cursor-right.png") 16 16, e-resize;
+    cursor: url("/assets/cursor-right.svg") 16 16, e-resize;
+    cursor: -webkit-image-set(url("/assets/cursor-right.png") 1x, url("/assets/cursor-right@2x.png") 2x) 16 16, e-resize;
   }
 }
 
@@ -225,9 +225,9 @@ p {
   align-items: center;
   justify-content: center;
   z-index: 100;
-  cursor: url("/assets/cursor-close.png") 0 0, pointer;
-  cursor: url("/assets/cursor-close.svg") 0 0, pointer;
-  cursor: -webkit-image-set(url("/assets/cursor-close.png") 1x, url("/assets/cursor-close@2x.png") 2x) 0 0, pointer;
+  cursor: url("/assets/cursor-close.png") 16 16, pointer;
+  cursor: url("/assets/cursor-close.svg") 16 16, pointer;
+  cursor: -webkit-image-set(url("/assets/cursor-close.png") 1x, url("/assets/cursor-close@2x.png") 2x) 16 16, pointer;
   @include transition;
   .gallery-image-wrapper {
     display: none;
@@ -264,9 +264,9 @@ p {
   border-radius: 10px;
   box-sizing: border-box;
   background-color: black;
-  cursor: url("/assets/cursor-plus.png") 0 0, pointer;
-  cursor: url("/assets/cursor-plus.svg") 0 0, pointer;
-  cursor: -webkit-image-set(url("/assets/cursor-plus.png") 1x, url("/assets/cursor-plus@2x.png") 2x) 0 0, pointer;
+  cursor: url("/assets/cursor-plus.png") 16 16, pointer;
+  cursor: url("/assets/cursor-plus.svg") 16 16, pointer;
+  cursor: -webkit-image-set(url("/assets/cursor-plus.png") 1x, url("/assets/cursor-plus@2x.png") 2x) 16 16, pointer;
   @include transition;
   &.off {
     background-color: white;
@@ -340,8 +340,15 @@ footer {
   a {
     display: inline-block;
     padding-right: 15px;
+    .inactive {
+      -webkit-filter: blur(10px);
+      filter: blur(10px);
+    }
   }
   .design-expander {
     display: none;
+    .show {
+      display: block;
+    }
   }
 }

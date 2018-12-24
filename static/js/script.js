@@ -90,3 +90,16 @@ $(function() {
 });
 
 
+$('.design-expand-container>a').click(function () {
+  var expand = $(this).closest('.design-expand-container').children('.design-expander');
+
+  $('.design-expander').removeClass('show');
+  expand.addClass('show');
+  $('.design-expand-container>a').addClass('inactive');
+  $(this).removeClass('.inactive');
+
+  console.log('click working');
+  
+
+
+})
