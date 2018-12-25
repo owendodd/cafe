@@ -130,6 +130,9 @@ p {
     cursor: pointer;
     position: relative;
     z-index: 200;
+    .opennow, .opensoon {
+      border-color: lightgray;
+    }
   }
   .title,
   .dates {
@@ -169,13 +172,23 @@ p {
   border-radius: 6px;
   text-transform: uppercase;
   background-color: white;
-  color: black;
   transform: rotate(-8deg);
-  &:hover  {
-    color: black;
+  animation: blinker 2s steps(1) infinite;
+  &.hide {
+    display: none;
   }
-
+  @keyframes blinker {
+    0% {
+      opacity: 1;
+    }
+    50% {
+      opacity: 0;
+    }
+  }
 }
+
+
+
 
 
 // Slideshow

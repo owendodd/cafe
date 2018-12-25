@@ -64,9 +64,11 @@ setInterval(function () {
 
 
 $('.project-group>.header').click(function () {
-  var expander = $(this).siblings();
+  var expander = $(this).siblings(),
+      opensign = $('.opennow, .opensoon');
 
   expander.toggleClass('show');
+  opensign.toggleClass('hide');
 
   event.preventDefault();
 });
