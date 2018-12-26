@@ -9,3 +9,7 @@ title = "picture_room"
 
 +++
 Photography: Allegra Sussman, Christian DeFonte. Models: Lila Gold, Maya Laner, Rosy Brown.
+
+#### Events
+
+Jan 1st: Comedy Show blah blah
