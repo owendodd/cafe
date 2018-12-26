@@ -1,8 +1,8 @@
 +++
 address = "Comedy Show"
-date = "2018-12-26T07:00:00+00:00"
+date = "2018-11-12T07:00:00+00:00"
 draft = true
-duration = "Dec 24, 2018"
+duration = "Nov 12, 2018"
 eventslideshow = []
 open = false
 openingsoon = false
