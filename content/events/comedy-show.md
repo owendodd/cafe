@@ -1,7 +1,6 @@
 +++
 address = "Comedy Show"
 date = "2018-11-12T07:00:00+00:00"
-draft = true
 duration = "Nov 12, 2018"
 eventslideshow = []
 open = false
