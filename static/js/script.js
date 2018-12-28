@@ -118,3 +118,10 @@ $(function () {
   opensoon.children('.header').append('<div class="opensoon">Opening soon</div>');
   
 });
+
+$(function () {
+  open  = $('.shop[data-event="true"]');
+
+  open.addClass('event');
+  
+});

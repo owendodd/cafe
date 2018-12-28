@@ -120,6 +120,13 @@ p {
   }
 }
 
+.event {
+  padding: 0 40px;
+  .slider {
+    display: none;
+  }
+}
+
 .shop>.header {
   width: 100%;
   display: flex;
