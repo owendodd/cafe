@@ -102,7 +102,7 @@ p {
   max-width: 1200px;
 }
 
-.project-group {
+.event {
   margin-bottom: 40px;
 }
 
@@ -112,7 +112,7 @@ p {
   }
 }
 
-.project-group {
+.event {
   position: relative;
   z-index: 10;
   &:hover {
@@ -120,7 +120,7 @@ p {
   }
 }
 
-.project-group>.header {
+.event>.header {
   width: 100%;
   display: flex;
   font-size: 32px;
@@ -173,7 +173,7 @@ p {
   text-transform: uppercase;
   background-color: white;
   transform: rotate(-8deg);
-  animation: blinker 2s steps(1) infinite;
+  animation: blinker 1500ms steps(1) infinite;
   &.hide {
     display: none;
   }
@@ -372,13 +372,12 @@ footer {
     display: inline-block;
     padding-right: 15px;
     &.inactive {
-      -webkit-filter: blur(5px);
-      filter: blur(5px);
+      color: lightgray;
+      &:hover {
+        color: black;
+      }
     }
-    &:hover {
-      -webkit-filter: blur(0px);
-      filter: blur(0px);
-    }
+    
   }
   .bio-expander {
     display: none;
