@@ -2,7 +2,7 @@
 
   {{ range where .Pages.ByDate.Reverse "Section" "shops" }}
 
-  <div class="shop" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}">
+  <div class="shop" data-event="{{ .Params.event }}" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}">
 
     <a class="header">
       <div class="title">{{.Params.address}}</div>
