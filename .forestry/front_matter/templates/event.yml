@@ -37,3 +37,4 @@ fields:
   description: Select if the shop is opening soon
 pages:
 - content/archive/comedy-show.md
+- content/archive/mirth_studio.md
