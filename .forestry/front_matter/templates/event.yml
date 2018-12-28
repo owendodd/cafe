@@ -36,6 +36,7 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
+- content/archive/170a_sufflolk_st_pt1.md
 - content/archive/comedy-show.md
 - content/archive/mirth_studio.md
 - content/archive/165_duane_st.md
