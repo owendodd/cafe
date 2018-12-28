@@ -35,3 +35,5 @@ fields:
   name: openingsoon
   label: Opening Soon
   description: Select if the shop is opening soon
+pages:
+- content/archive/comedy-show.md
