@@ -1,40 +1,40 @@
 ---
-label: Event
+label: Shop
 hide_body: false
 is_partial: false
 fields:
 - type: datetime
   label: Date
   name: date
-  description: Add end date of event
+  description: Add end date of shop
 - type: text
   label: Address
-  description: Enter address of popup
+  description: Enter address of shop
   name: address
   config:
     required: true
 - type: text
   label: Duration
   name: duration
-  description: Enter the dates of the popup
+  description: Enter the dates of the shop
   config:
     required: true
 - type: image_gallery
-  name: eventslideshow
-  label: Event slideshow
+  name: shopslideshow
+  label: Shop slideshow
   description: Add slideshow images here
 - type: boolean
   name: open
   label: Open
-  description: Select if the event is open
+  description: Select if the shop is open
 - type: boolean
   name: openingsoon
   label: Opening Soon
-  description: Select if the event is opening soon
+  description: Select if the shop is opening soon
 pages:
-- content/events/picture_room.md
-- content/events/165_duane_st.md
-- content/events/170a_suffolk_st_pt2.md
-- content/events/mirth_studio.md
-- content/events/170a_sufflolk_st_pt1.md
-- content/events/comedy-show.md
+- content/archive/picture_room.md
+- content/archive/165_duane_st.md
+- content/archive/170a_suffolk_st_pt2.md
+- content/archive/mirth_studio.md
+- content/archive/170a_sufflolk_st_pt1.md
+- content/archive/comedy-show.md

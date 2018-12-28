@@ -102,7 +102,7 @@ p {
   max-width: 1200px;
 }
 
-.event {
+.shop {
   margin-bottom: 40px;
 }
 
@@ -112,7 +112,7 @@ p {
   }
 }
 
-.event {
+.shop {
   position: relative;
   z-index: 10;
   &:hover {
@@ -120,7 +120,7 @@ p {
   }
 }
 
-.event>.header {
+.shop>.header {
   width: 100%;
   display: flex;
   font-size: 32px;

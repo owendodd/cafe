@@ -63,20 +63,20 @@ setInterval(function () {
 
 
 
-$('.event>.header').click(function () {
+$('.shop>.header').click(function () {
   var expander = $(this).siblings(),
       opensign = $('.opennow, .opensoon');
 
   expander.toggleClass('show');
   opensign.toggleClass('hide');
 
-  event.preventDefault();
+  shop.prshopDefault();
 });
 
 $('#archive').click(function () {
 
   $('.overlay').addClass('hide');
-  $('.event>.toc-expander').addClass('show');
+  $('.shop>.toc-expander').addClass('show');
 
 });
 
@@ -111,8 +111,8 @@ $('.bio-expand-container>a').click(function () {
 
 
 $(function () {
-  var open     = $('.event[data-open="true"]'),
-      opensoon = $('.event[data-opensoon="true"]');
+  var open     = $('.shop[data-open="true"]'),
+      opensoon = $('.shop[data-opensoon="true"]');
 
   open.children('.header').append('<div class="opennow">Open now</div>');
   opensoon.children('.header').append('<div class="opensoon">Opening soon</div>');

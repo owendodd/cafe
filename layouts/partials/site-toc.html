@@ -1,8 +1,8 @@
 <div class="toc-wrapper blur">
 
-  {{ range where .Pages.ByDate.Reverse "Section" "events" }}
+  {{ range where .Pages.ByDate.Reverse "Section" "shops" }}
 
-  <div class="event" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}">
+  <div class="shop" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}">
 
     <a class="header">
       <div class="title">{{.Params.address}}</div>
@@ -20,7 +20,7 @@
           </div>
 
           <div class="slider">
-            {{ range .Params.eventslideshow }}
+            {{ range .Params.shopslideshow }}
             <div class="slide">
               <img src="{{.}}">
             </div>

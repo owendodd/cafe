@@ -10,8 +10,8 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: content/events
-  label: Events
+  path: content/shops
+  label: shops
   create: all
   match: "*"
 - type: directory
