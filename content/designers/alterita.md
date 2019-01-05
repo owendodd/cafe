@@ -5,4 +5,4 @@ gallery = []
 title = "alterita"
 
 +++
-Our friend Layla Alter makes delicate and playful jewelry inspired by her collection of pendants: emblems from her travels. She launched her line, Alterita in 2018 inspired by her upbringing when dreaded winter days were spent dreaming of the ocean, yearning for summer’s first swim; sandy, salted skin and raisined toes.
+Layla Alter launched her jewelry line, Alterita, in 2018 with translucent ruby-red fruits, peppers and cowrie shells dangling from delicate hoops, necklaces and anklets. Her work is inspired by her upbringing when dreaded winter days in New York were spent dreaming of the ocean and yearning for summer’s first swim. 
