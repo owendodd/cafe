@@ -18,9 +18,9 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/anna-pierce.md
 - content/_index.md
 - content/designers/alterita.md
 - content/designers/annabell-p-lee.md
 - content/designers/alexa-stark.md
-- content/designers/anna-pierce.md
 - content/designers/autobody.md
