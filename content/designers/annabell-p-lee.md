@@ -5,4 +5,4 @@ gallery = []
 title = "annabell-p-lee"
 
 +++
-Based in Los Angeles CA, Annabell P Lee makes paintings, textiles, and clothing inspired by the materiality of color in vintage melamine and PVC Objects. Lee hand dyes checkerboards and other abstract patterns on garments such as denim jackets, wrap tops, and grommet corsets.
+Based in Los Angeles, Annabell P Lee makes paintings, textiles, and clothing inspired by the materiality of color in vintage melamine and PVC. Lee hand dyes chunky checkerboard patterns and abstract designs in fire-engine red and navy blue on denim jackets, wrap tops, and rough-hewn lace-up grommet corsets. 
