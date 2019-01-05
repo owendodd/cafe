@@ -5,4 +5,4 @@ gallery = []
 title = "autobody"
 
 +++
-Autobody is a vintage inspired pants label created in 2014 by native new yorker and Pratt Graduate Cassie Goodman. The line is extremely flattering on bodies of all shapes and sizes. The pants are high waisted and come in the styles that everybody loves such as corduroy, pinstripe and vinyl. 
+Autobody is a vintage inspired pants label created in 2014 by New Yorker and Pratt graduate, Cassie Goodman. Insanely comfortable, the pants have high waists and come in fly-off-the-shelves materials such as corduroy, pinstripe and vinyl. Best of all, the line is flattering on bodies of all shapes and sizes. 
