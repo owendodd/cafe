@@ -5,4 +5,4 @@ gallery = []
 title = "alexa-stark"
 
 +++
-Alexa Stark is based in Portland, OR. Stark’s garments unify form, function and material by using sustainable production methods and creating some one-off pieces.
+Based in Portland, Alexa Stark’s clothing reflects our complex age in which the designer and the wearer must balance the practical and the spectacle. Stark seeks to unify form, function and material using processes and production methods that adhere to sustainability and healthy work standards.
