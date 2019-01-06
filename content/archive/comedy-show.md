@@ -8,4 +8,4 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Organized and curated in collaboration with friend and comedian Ruby McCollister, _A Night To Remember_, featured performances by five comedic acts: Leah Hennessey and Emily Allan, Larry Owens, Peter Smith, Amy Zimmer, and Ruby McCollister.
+Organized and curated in collaboration with friend and comedian Ruby McCollister, _The Night You've Been Waiting For_, featured performances by five comedic acts: Leah Hennessey and Emily Allan, Larry Owens, Peter Smith, Amy Zimmer, and Ruby McCollister.
