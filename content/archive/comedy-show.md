@@ -1,6 +1,6 @@
 +++
 address = "Comedy Show"
-date = "2018-08-18T19:44:33+00:00"
+date = "2018-08-18T04:00:00+00:00"
 duration = "Nov 12, 2018"
 event = true
 open = false
