@@ -3,7 +3,7 @@ $(function () {
     total_slides = $('.slider>.slide').length;
 
   first_slide.addClass('show');
-  $('#indicator').html('1 / ' + total_slides);
+  $('.indicator').html('1 / ' + total_slides);
 
 
   $('.next').click(function () {
