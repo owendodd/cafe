@@ -8,4 +8,4 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Hosted by _Jzuj_ – the collaborative cooking project of graphic designer, Owen Dodd and chef Nicholas Sewitz, the temporary wine bar spanned two evenings. The gastronomists provided a tasty selection of their homemade pickles and other delicious snacks which they paired with a selection of delightful natural wines. On the second night of the wine bar, opera soprano, Charlotte Jackson, provided live accompaniment, performing selected arias from the 17th-20th centuries.
+Hosted by _Jzuj_ – the collaborative cooking project of graphic designer, Owen Dodd and chef Nicholas Sewitz, the temporary wine bar spanned two evenings, providing a selection of snacks paired with natural wines. On the second night of the wine bar, opera soprano, Charlotte Jackson, provided live accompaniment, performing selected arias from the 17th-20th centuries.
