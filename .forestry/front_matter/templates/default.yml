@@ -18,6 +18,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/jessica-butler.md
 - content/designers/christie-keshet.md
 - content/designers/bror-august.md
 - content/designers/brie-moreno.md
@@ -30,7 +31,6 @@ pages:
 - content/designers/femail.md
 - content/designers/gauntlett-cheng.md
 - content/designers/helenamanzano.md
-- content/designers/jessica-butler.md
 - content/designers/jrat.md
 - content/designers/kira-scirbin.md
 - content/designers/kristin-mallison.md
