@@ -26,7 +26,8 @@ body {
   }
 }
 
-h1, h2 {
+h1,
+h2 {
   font-size: 24px;
   font-weight: normal;
   margin: 5px 0;
@@ -133,7 +134,8 @@ p {
     cursor: pointer;
     position: relative;
     z-index: 200;
-    .opennow, .opensoon {
+    .opennow,
+    .opensoon {
       border-color: lightgray;
     }
   }
@@ -161,7 +163,8 @@ p {
   }
 }
 
-.opennow, .opensoon {
+.opennow,
+.opensoon {
   position: absolute;
   margin-left: auto;
   margin-right: auto;
@@ -190,10 +193,6 @@ p {
   }
 }
 
-
-
-
-
 // Slideshow
 .content {
   position: relative;
@@ -213,16 +212,34 @@ p {
   .prev {
     height: 100%;
     width: 50%;
-    cursor: url("/assets/cursor-left.png") 16 16, w-resize;
-    cursor: url("/assets/cursor-left.svg") 16 16, w-resize;
-    cursor: -webkit-image-set(url("/assets/cursor-left.png") 1x, url("/assets/cursor-left@2x.png") 2x) 16 16, w-resize;
+    display: flex;
+    justify-content: flex-start;
+    cursor: pointer;
+    .icon {
+      align-self: center;
+      width: 16px;
+      height: 16px;
+      background-image: url("/assets/cursor-left.svg");
+      &:hover {
+        opacity: 0.1725;
+      }
+    }
   }
   .next {
     height: 100%;
     width: 50%;
-    cursor: url("/assets/cursor-right.png") 16 16, e-resize;
-    cursor: url("/assets/cursor-right.svg") 16 16, e-resize;
-    cursor: -webkit-image-set(url("/assets/cursor-right.png") 1x, url("/assets/cursor-right@2x.png") 2x) 16 16, e-resize;
+    display: flex;
+    justify-content: flex-end;
+    cursor: pointer;
+    .icon {
+      align-self: center;
+      width: 16px;
+      height: 16px;
+      background-image: url("/assets/cursor-right.svg");
+      &:hover {
+        opacity: 0.1725;
+      }
+    }
   }
 }
 
@@ -237,13 +254,14 @@ p {
     display: none;
     justify-content: center;
     align-items: center;
+    height: 1200px;
+    max-height: 90vh;
     &.show {
       display: flex;
     }
     img {
+      max-height: 100%;
       max-width: 100%;
-      height: 80vh;
-      max-height: 1000px;
     }
   }
 }
@@ -380,7 +398,6 @@ footer {
         color: black;
       }
     }
-    
   }
   .bio-expander {
     display: none;
@@ -390,28 +407,67 @@ footer {
   }
 }
 
-
-
-
 @media screen and (max-width: 740px) {
-
-  body, h1, h2, h4 {
+  body,
+  h1,
+  h2,
+  h4 {
     font-size: 18px;
   }
-
   h3 {
     font-size: 12px;
   }
-
   .shop .header {
     font-size: 24px;
   }
-
-  .opennow, .opensoon {
+  .opennow,
+  .opensoon {
     font-size: 12px;
     width: 70px;
   }
+  #mc_embed_signup {
+    font-size: 12px;
+    input.email {
+      font-size: 18px !important;
+    }
+    .button {
+      font-size: 12px !important;
+      margin-left: 0 !important;
+    }
+  }
+}
 
+@media screen and (max-width: 580px) {
+  .info {
+    margin-top: 20px;
+  }
 
-
+  .three-grid {
+    grid-template-columns: 1fr;
+    padding: 0;
+  }
+  .nav {
+    position: relative;
+    left: 0;
+    right: 0;
+  }
+  .shop>.header {
+    display: block;
+  }
+  .title,
+  .dates {
+    display: block;
+  }
+  .leader {
+    display: none;
+  }
+  .toc-wrapper {
+    margin-top: 20px;
+  }
+  .controls .next .icon {
+    transform: translateX(17px);
+  }
+  .controls .prev .icon {
+    transform: translateX(-17px);
+  }
 }
