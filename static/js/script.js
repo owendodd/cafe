@@ -107,17 +107,6 @@ $('.bio-expand-container>a').click(function () {
     $('.bio-expand-container a').removeClass('inactive');
   }
 
-  // if ($(expand).hasClass('show')) {
-  //   $('.bio-expander').not(expand).removeClass('show');
-  //   expand.toggleClass('show');
-  //   $('.bio-expand-container a').removeClass('inactive');
-  // }
-  // else {
-  //   $('.bio-expander').not(expand).removeClass('show');
-  //   expand.toggleClass('show');
-  //   $('.bio-expand-container a').addClass('inactive');
-  //   $(this).removeClass('inactive');
-  // }
 });
 
 
