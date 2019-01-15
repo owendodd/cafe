@@ -398,6 +398,12 @@ footer {
         color: black;
       }
     }
+    &.active {
+      color: black;
+      &:hover {
+        color: lightgray;
+      }
+    }
   }
   .bio-expander {
     display: none;

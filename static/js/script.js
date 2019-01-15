@@ -93,20 +93,31 @@ $(function () {
 
 
 $('.bio-expand-container>a').click(function () {
+  
   var expand = $(this).parent().children('.bio-expander');
 
+  expand.toggleClass('show');
+  $(this).toggleClass('active');
 
-  if ($(expand).hasClass('show')) {
-    $('.bio-expander').not(expand).removeClass('show');
-    expand.toggleClass('show');
+  
+  if ($(".active")[0]) {
+    $('.bio-expand-container a').addClass('inactive');
+    $('.active').removeClass('inactive')
+  } else {
     $('.bio-expand-container a').removeClass('inactive');
   }
-  else {
-    $('.bio-expander').not(expand).removeClass('show');
-    expand.toggleClass('show');
-    $('.bio-expand-container a').addClass('inactive');
-    $(this).removeClass('inactive');
-  }
+
+  // if ($(expand).hasClass('show')) {
+  //   $('.bio-expander').not(expand).removeClass('show');
+  //   expand.toggleClass('show');
+  //   $('.bio-expand-container a').removeClass('inactive');
+  // }
+  // else {
+  //   $('.bio-expander').not(expand).removeClass('show');
+  //   expand.toggleClass('show');
+  //   $('.bio-expand-container a').addClass('inactive');
+  //   $(this).removeClass('inactive');
+  // }
 });
 
 
