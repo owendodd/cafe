@@ -5,6 +5,6 @@ duration = "Feb 13–15, 2019"
 event = false
 open = false
 openingsoon = true
-shopslideshow = ["/uploads/CafeForgot_Venice_Look1_035.jpg", "/uploads/CafeForgot_Venice_Look4_022.jpg", "/uploads/CafeForgot_Venice_Look2_011.jpg", "/uploads/CafeForgot_Venice_Look3_009.jpg", "/uploads/CafeForgot_Venice_Look2_026.jpg"]
+shopslideshow = ["/uploads/CafeForgot_Venice_Look1_035.jpg", "/uploads/CafeForgot_Venice_Look2_011.jpg", "/uploads/CafeForgot_Venice_Look2_026.jpg"]
 
 +++
