@@ -4,8 +4,8 @@ layout = "info"
 title = "info"
 type = "info"
 [[contact]]
-link_title = "cafeforgotnyc@gmail.com"
-link_url = "mailto:cafeforgotnyc@gmail.com"
+link_title = "info@cafeforgot.com"
+link_url = "mailto:info@cafeforgot.com"
 template = "link"
 [[contact]]
 link_title = "@cafe_forgot"
