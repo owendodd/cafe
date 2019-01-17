@@ -7,7 +7,7 @@
   <div class="two-col">
     <div> {{.Content}} </div>
     <h4>Press</h4>
-    {{ range .Params.ByTitle.press }}
+    {{ range .Params.press }}
     <a class="list-link" href="{{ .link_url }}">{{ .link_title }}</a>
     {{ end }}
 
