@@ -8,3 +8,4 @@ openingsoon = true
 shopslideshow = ["/uploads/CafeForgot_Venice_Look1_035.jpg", "/uploads/CafeForgot_Venice_Look2_011.jpg", "/uploads/CafeForgot_Venice_Look2_026.jpg"]
 
 +++
+test
