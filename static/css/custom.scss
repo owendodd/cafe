@@ -13,6 +13,7 @@ body {
   font-size: 24px;
   line-height: 1.4;
   max-width: 1200px;
+  width: calc(100vw - 40px);
   margin: auto;
   padding: 10px 20px;
   a {
@@ -433,6 +434,10 @@ footer {
   .opensoon {
     font-size: 12px;
     width: 70px;
+    top: 3px;
+    left: auto;
+    right: 0;
+    transform: rotate(0deg);
   }
   #mc_embed_signup {
     font-size: 12px;
@@ -450,7 +455,6 @@ footer {
   .info {
     margin-top: 20px;
   }
-
   .three-grid {
     grid-template-columns: 1fr;
     padding: 0;
