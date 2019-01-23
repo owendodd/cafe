@@ -4,7 +4,7 @@ date = "2018-11-19T02:41:54+00:00"
 duration = "Nov 10–18, 2018"
 event = false
 open = false
-openingsoon = true
+openingsoon = false
 shopslideshow = ["/uploads/pictureroom-2.jpg", "/uploads/pictureroom-3.jpg", "/uploads/pictureroom-4.jpg", "/uploads/pictureroom-5.jpg", "/uploads/pictureroom-6.jpg", "/uploads/pictureroom-1.jpg", "/uploads/pictureroom-7.jpg", "/uploads/pictureroom-8.jpg"]
 title = "picture_room"
 
