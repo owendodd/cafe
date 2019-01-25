@@ -9,4 +9,4 @@ shopslideshow = ["/uploads/pictureroom-2.jpg", "/uploads/pictureroom-3.jpg", "/u
 title = "tru"
 
 +++
-Photography: Allegra Sussman, Christian DeFonte. Models: Lila Gold, Maya Laner, Rosy Brown.
+Photography: Allegra Sussman, Christian DeFonte. Models: Lila Gold, Maya Laner, Rosy Brown. 
