@@ -1,8 +1,8 @@
 +++
 date = "2019-01-06T20:12:06+00:00"
-designer = "Merritt Deth"
+designer = "Merritt Meacham"
 gallery = []
-title = "merritt-deth"
+title = "merritt-meacham"
 
 +++
-Merritt Deth is a New York-based artist and designer who makes meshy, stretchy, deconstructed tops for Café Forgot. 
+Merritt Meacham is a New York-based artist and designer who makes meshy, stretchy, deconstructed tops for Café Forgot.
