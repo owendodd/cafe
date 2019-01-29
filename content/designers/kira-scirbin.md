@@ -5,4 +5,4 @@ gallery = []
 title = "kira-scirbin"
 
 +++
-Kira Scirbin is a Chicago-based visual artist who makes garments, hand bags, and chokers as canvases for her paintings and embroideries. Her work has a punk DIY aesthetic and often features abstract, haunting paintings paired with commonplace words such as “earth” and “adult.” These words are given a new dimension once worn upon the body.
+Kira Scirbin is a Chicago-based visual artist who makes garments, hand bags, and chokers that are used as canvases for her paintings and embroideries. Her work has a punk DIY aesthetic and often features abstract, haunting paintings paired with commonplace words such as “earth” and “adult.” These words are given a new dimension once worn upon the body.
