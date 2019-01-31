@@ -1,6 +1,6 @@
 +++
 date = "2019-01-06T19:52:37+00:00"
-designer = "Kira Screbin"
+designer = "Kira Scerbin"
 gallery = []
 title = "kira-scerbin "
 
