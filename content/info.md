@@ -27,6 +27,10 @@ template = "link"
 link_title = "Fashionista"
 link_url = "https://fashionista.com/2019/01/upcycled-clothing-sustainable-fashion-trend"
 template = "link"
+[[press]]
+link_title = "Office "
+link_url = "http://officemagazine.net/its-not-hard-remeber-caf%C3%A9-forgot"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
