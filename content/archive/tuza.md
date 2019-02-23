@@ -10,4 +10,4 @@ shopslideshow = ["/uploads/12A8781A-573D-44CD-823A-143449C01070.jpeg", "/uploads
 +++
 Photography: Christian DeFonte. 
 
-Models: Venice W, Ada, Sadaf, Blanche. 
+Models: Venice W, Ada O’Higgins, Sadaf H. Naha, Blanche Apsara. 
