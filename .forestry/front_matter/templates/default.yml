@@ -18,6 +18,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/aiyana-jaffe.md
 - content/designers/lou-dallas.md
 - content/designers/camille-beinhorn.md
 - content/designers/merritt-deth.md
