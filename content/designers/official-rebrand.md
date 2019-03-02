@@ -1,7 +1,6 @@
 +++
 date = "2019-03-02T19:04:52+00:00"
 designer = "Official Rebrand"
-draft = true
 gallery = []
 title = "official-rebrand"
 
