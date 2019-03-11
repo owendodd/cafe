@@ -31,6 +31,10 @@ template = "link"
 link_title = "Office "
 link_url = "http://officemagazine.net/its-not-hard-remeber-caf%C3%A9-forgot"
 template = "link"
+[[press]]
+link_title = "WWD"
+link_url = "https://wwd.com/fashion-news/fashion-features/aging-millennials-soothe-themselves-childlike-fashions-1203078131/"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
