@@ -29,7 +29,7 @@ link_url = "https://fashionista.com/2019/01/upcycled-clothing-sustainable-fashio
 template = "link"
 [[press]]
 link_title = "Office "
-link_url = "http://officemagazine.net/its-not-hard-remeber-caf%C3%A9-forgot"
+link_url = "http://officemagazine.net/its-not-hard-remember-café-forgot"
 template = "link"
 [[press]]
 link_title = "WWD"
