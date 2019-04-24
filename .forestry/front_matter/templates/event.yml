@@ -35,6 +35,7 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
+- content/archive/stand_up_comedy.md
 - content/archive/tuza.md
 - content/archive/temporary-wine-bar.md
 - content/archive/picture_room.md
