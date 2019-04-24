@@ -1,7 +1,7 @@
 +++
 address = "Stand Up Comedy"
 date = "2019-04-22T04:00:00+00:00"
-duration = "May 17-June 8"
+duration = "May 17–June 8, 2019"
 event = false
 open = false
 openingsoon = true
