@@ -35,12 +35,12 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
-- content/archive/stand_up_comedy.md
-- content/archive/tuza.md
-- content/archive/temporary-wine-bar.md
 - content/archive/picture_room.md
-- content/archive/170a_suffolk_st_pt2.md
-- content/archive/170a_sufflolk_st_pt1.md
+- content/archive/temporary-wine-bar.md
 - content/archive/165_duane_st.md
+- content/archive/170a_suffolk_st_pt2.md
 - content/archive/mirth_studio.md
 - content/archive/comedy-show.md
+- content/archive/170a_sufflolk_st_pt1.md
+- content/archive/tuza.md
+- content/archive/stand_up_comedy.md
