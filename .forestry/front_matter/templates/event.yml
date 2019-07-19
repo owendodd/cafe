@@ -35,6 +35,7 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
+- content/archive/larrie.md
 - content/archive/picture_room.md
 - content/archive/temporary-wine-bar.md
 - content/archive/165_duane_st.md
