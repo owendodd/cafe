@@ -1,8 +1,8 @@
 +++
-address = "Marie Lea Lund Chakra test"
+address = "Marie Lea Lund Chakra Survey"
 date = "2019-07-16T04:00:00+00:00"
 draft = true
-duration = "Aug 1-31, 2019"
+duration = "Aug 1–31, 2019"
 event = true
 open = false
 openingsoon = false
