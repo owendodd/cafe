@@ -12,7 +12,7 @@ link_title = "@cafe_forgot"
 link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 [[press]]
-link_title = "Vogue"
+link_title = "Vogue (2018)"
 link_url = "https://www.vogue.com/article/cafe-forgot-vita-haas-lucy-weisner"
 template = "link"
 [[press]]
