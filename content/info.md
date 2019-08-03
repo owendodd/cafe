@@ -43,6 +43,10 @@ template = "link"
 link_title = "Teen Vogue"
 link_url = "https://www.teenvogue.com/story/cafe-forgot-at-larrie-gallery-new-york"
 template = "link"
+[[press]]
+link_title = "Vogue (2019)"
+link_url = "https://www.vogue.com/article/cafe-forgot-larrie-pop-up-chinatown-gallery-store-instagram?verso=true"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
