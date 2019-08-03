@@ -1,5 +1,6 @@
 +++
 date = "2018-12-23T06:29:24+00:00"
+draft = true
 layout = "info"
 title = "info"
 type = "info"
@@ -38,6 +39,10 @@ template = "link"
 [[press]]
 link_title = "The Cools"
 link_url = "https://cools.com/cafe-forgot-new-york-fashion"
+template = "link"
+[[press]]
+link_title = "Teen Vogue"
+link_url = "https://www.teenvogue.com/story/cafe-forgot-at-larrie-gallery-new-york"
 template = "link"
 
 +++
