@@ -9,4 +9,4 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Larrie and Café Forgot are pleased to host stylist Becky Akinyode in conversation with artist/designer Martina Cox, moderated by Vita Haas and Lucy Weisner. [**_RSVP_**](https://www.eventbrite.com/e/becky-akinyode-in-conversation-with-martina-cox-tickets-68190530713 "rsvp")**_._**
+Café Forgot founders Lucy Weisner and Vita Haas will moderate a conversation between stylist Becky Akinyode and artist/designer Martina Cox [**_RSVP_**](https://www.eventbrite.com/e/becky-akinyode-in-conversation-with-martina-cox-tickets-68190530713 "rsvp")**_._**
