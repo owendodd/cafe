@@ -1,7 +1,7 @@
 +++
 address = "Becky Akinyode in Conversation with Martina Cox"
 date = "2019-07-11T04:00:00+00:00"
-duration = "Aug 15, 2019–7 PM"
+duration = "Aug 15, 2019, 7 PM"
 event = true
 open = false
 openingsoon = false
