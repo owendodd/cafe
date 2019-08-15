@@ -35,6 +35,7 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
+- content/archive/true-blue,-eyeshadow,-personal-trainer,-sadie.md
 - content/archive/becky-akinyode-in-conversation-with-martina-cox.md
 - content/archive/marie-lea-lund-chakra-survey.md
 - content/archive/larrie.md
