@@ -8,4 +8,4 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Café Forgot founders Lucy Weisner and Vita Haas moderated a conversation between stylist Becky Akinyode and artist/designer Martina Cox.
+Café Forgot founders Lucy Weisner and Vita Haas moderated a conversation between stylist Becky Akinyode and artist/designer Martina Cox. The discussion focused on the impact of limited edition and handmade clothing in their respective practices as well as utilizing second hand clothing as a visual and physical resource.
