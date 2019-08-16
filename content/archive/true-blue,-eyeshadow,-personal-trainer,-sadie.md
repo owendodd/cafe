@@ -1,7 +1,6 @@
 +++
 address = "True Blue, Eyeshadow, Personal Trainer, Sadie"
 date = "2019-07-15T04:00:00+00:00"
-draft = true
 duration = "Aug 25, 2019, 5 PM"
 event = true
 open = false
