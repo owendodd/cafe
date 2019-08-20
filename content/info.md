@@ -47,6 +47,10 @@ template = "link"
 link_title = "Vogue (2019)"
 link_url = "https://www.vogue.com/article/cafe-forgot-larrie-pop-up-chinatown-gallery-store-instagram?verso=true"
 template = "link"
+[[press]]
+link_title = "The Cut"
+link_url = "https://www.thecut.com/2019/08/cafe-forgot-store.html"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
