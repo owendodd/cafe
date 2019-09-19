@@ -8,6 +8,4 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Larrie and Café Forgot are pleased to host a concert with True Blue, Eyeshadow, Personal Trainer, and Sadie. 
-
-[**_RSVP TICKETS HERE._**](https://www.eventbrite.com/e/sadie-eyeshadow-personal-trainer-and-true-blue-in-concert-tickets-68208747199 "RSVP TICKETS HERE")
+Larrie and Café Forgot were pleased to host a concert with True Blue, Eyeshadow, Personal Trainer, and Sadie.
