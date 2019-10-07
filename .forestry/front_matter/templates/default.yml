@@ -17,6 +17,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/_index.md
 - content/designers/so-far.md
 - content/designers/kunst.md
 - content/designers/zak-syroka.md
@@ -33,7 +34,6 @@ pages:
 - content/designers/helenamanzano.md
 - content/designers/femail.md
 - content/designers/autobody.md
-- content/_index.md
 - content/designers/aiyana-jaffe.md
 - content/designers/merritt-deth.md
 - content/designers/alexa-stark.md
