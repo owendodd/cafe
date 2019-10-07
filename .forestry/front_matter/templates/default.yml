@@ -17,6 +17,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/so-far.md
 - content/designers/kunst.md
 - content/designers/zak-syroka.md
 - content/designers/official-rebrand.md
