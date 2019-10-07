@@ -17,6 +17,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/zak-syroka.md
 - content/designers/official-rebrand.md
 - content/designers/camille-beinhorn.md
 - content/designers/mila-sullivan.md
