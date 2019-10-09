@@ -17,6 +17,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/emily-fitzpatrick.md
 - content/designers/merritt-deth.md
 - content/_index.md
 - content/designers/so-far.md
