@@ -5,4 +5,4 @@ gallery = []
 title = "merritt-meacham"
 
 +++
-Merritt Meacham is a New York-based artist and designer who makes meshy, stretchy, deconstructed tops for Café Forgot.
+Merritt Meacham's work is trapped between the destruction of the fancied playful and the technical tedium of the body. Merritt works with paint, dye, wine, plastic and deadstock fabric to make stretchy tops.
