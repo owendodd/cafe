@@ -17,6 +17,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/louise-lyngh-bjerregaard.md
 - content/designers/caroline-david.md
 - content/designers/hanan-sharifa.md
 - content/designers/runny-babbit.md
