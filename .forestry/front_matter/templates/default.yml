@@ -17,6 +17,7 @@ fields:
   label: Gallery
   description: Add images here
 pages:
+- content/designers/zepherina.md
 - content/designers/under-the-rug.md
 - content/designers/aurelia-cotton.md
 - content/designers/louise-lyngh-bjerregaard.md
