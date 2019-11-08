@@ -35,6 +35,7 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
+- content/archive/cafe-february.md
 - content/archive/627-e-6th-st.md
 - content/archive/cafe-december-627-e-6th-st.md
 - content/archive/larrie.md
