@@ -9,3 +9,6 @@ openingsoon = true
 shopslideshow = ["/uploads/CafeForgot_Sienna_Look1_013.jpg"]
 
 +++
+Photography: Christian DeFonte.
+
+Model: Sienna Fekete.
