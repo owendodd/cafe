@@ -35,8 +35,8 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
-- content/archive/breathwork-healing.md
 - content/archive/627-e-6th-st.md
+- content/archive/breathwork-healing.md
 - content/archive/larrie.md
 - content/archive/true-blue,-eyeshadow,-personal-trainer,-sadie.md
 - content/archive/marie-lea-lund-chakra-survey.md
