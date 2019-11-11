@@ -9,7 +9,7 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Living in the city is energetically intense. In these monthly groups, Luke will create a space for Cafe Forgot friends to gather to go inside to heal and re-ignite their inner spark with Breathwork.
+Living in the city is energetically intense. In these monthly groups, Luke Simon will create a space for Café Forgot friends to gather to go inside to heal and re-ignite their inner spark with Breathwork.
 
 Breathwork is an active meditation that takes you out of the mind and into feeling. As you relax and let go, the increased oxygen flow rejuvenates your body and helps to open your heart. People can have cathartic emotional releases, and moments of intuitive wisdom and clarity. By filling up on your own energy, and reconnecting to your breath, you cleanse and let go what isn’t truly yours. Come ready to breathe, let go, and experience the subtle energy inside yourself. You’ll leave feeling lighter, balanced, and more who you really are.
 
@@ -17,5 +17,4 @@ Each group will start with a short grounding meditation. Then we will check in w
 
 _Luke Simon studied Breathwork with David Elliott. He is a Reiki Master and co-founder of Maha Rose Center for Healing in Brooklyn. His work has been written about in the New York Times and VanityFair.com. He is currently writing a humor memoir about his healing journey._
 
-  
-Tickets 
+Tickets
