@@ -1,5 +1,5 @@
 +++
-designer = "Goodwitch"
+designer = "GOODWITCH"
 gallery = []
 title = "goodwitch"
 
