@@ -1,6 +1,6 @@
 +++
 address = "Breathwork Healing"
-date = 2019-12-07T05:00:00Z
+date = 2019-12-06T05:00:00Z
 draft = true
 duration = "Jan 8, 2020 7—9 PM"
 event = true
