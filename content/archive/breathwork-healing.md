@@ -9,6 +9,6 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Breathwork healing at Café Forgot (627 E 6th ST) will be lead by mystic, Luke Simon of Maha Rose and will address the energetic intensity of life in NYC. Breathwork is an active meditation that takes you out of the mind and into feeling. As you relax and let go, the increased oxygen flow rejuvenates your body and helps to open your heart.
+Breathwork healing at Café Forgot (627 E 6th ST) is lead by mystic, Luke Simon of Maha Rose and will address the energetic intensity of life in NYC. Breathwork is an active meditation that takes you out of the mind and into feeling. As you relax and let go, the increased oxygen flow rejuvenates your body and helps to open your heart.
 
 [Tickets](https://www.eventbrite.com/e/breathwork-healing-at-cafe-forgot-tickets-87034860611 "tickets")
