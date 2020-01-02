@@ -12,7 +12,7 @@ link_title = "@cafe_forgot"
 link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 [[press]]
-link_title = "Vogue"
+link_title = "Vogue (2018)"
 link_url = "https://www.vogue.com/article/cafe-forgot-vita-haas-lucy-weisner"
 template = "link"
 [[press]]
@@ -26,6 +26,30 @@ template = "link"
 [[press]]
 link_title = "Fashionista"
 link_url = "https://fashionista.com/2019/01/upcycled-clothing-sustainable-fashion-trend"
+template = "link"
+[[press]]
+link_title = "Office "
+link_url = "http://officemagazine.net/its-not-hard-remember-café-forgot"
+template = "link"
+[[press]]
+link_title = "WWD"
+link_url = "https://wwd.com/fashion-news/fashion-features/aging-millennials-soothe-themselves-childlike-fashions-1203078131/"
+template = "link"
+[[press]]
+link_title = "The Cools"
+link_url = "https://cools.com/cafe-forgot-new-york-fashion"
+template = "link"
+[[press]]
+link_title = "Teen Vogue"
+link_url = "https://www.teenvogue.com/story/cafe-forgot-at-larrie-gallery-new-york"
+template = "link"
+[[press]]
+link_title = "Vogue (2019)"
+link_url = "https://www.vogue.com/article/cafe-forgot-larrie-pop-up-chinatown-gallery-store-instagram?verso=true"
+template = "link"
+[[press]]
+link_title = "The Cut"
+link_url = "https://www.thecut.com/2019/08/cafe-forgot-store.html"
 template = "link"
 
 +++

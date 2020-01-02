@@ -1,7 +1,6 @@
 ---
 label: Archive
 hide_body: false
-is_partial: false
 fields:
 - type: datetime
   label: Date
@@ -36,11 +35,18 @@ fields:
   label: Opening Soon
   description: Select if the shop is opening soon
 pages:
-- content/archive/temporary-wine-bar.md
-- content/archive/170a_sufflolk_st_pt1.md
-- content/archive/comedy-show.md
-- content/archive/mirth_studio.md
-- content/archive/170a_suffolk_st_pt2.md
 - content/archive/165_duane_st.md
-- content/archive/tuza.md
+- content/archive/170a_sufflolk_st_pt1.md
+- content/archive/170a_suffolk_st_pt2.md
+- content/archive/627-e-6th-st.md
+- content/archive/becky-akinyode-in-conversation-with-martina-cox.md
+- content/archive/breathwork-healing.md
+- content/archive/comedy-show.md
+- content/archive/larrie.md
+- content/archive/marie-lea-lund-chakra-survey.md
+- content/archive/mirth_studio.md
 - content/archive/picture_room.md
+- content/archive/stand_up_comedy.md
+- content/archive/temporary-wine-bar.md
+- content/archive/true-blue,-eyeshadow,-personal-trainer,-sadie.md
+- content/archive/tuza.md
