@@ -7,10 +7,10 @@
   <div class="two-col">
     <p>CAFÉ FORGOT works with these designers and artists:</p>
     {{ range where .Pages.ByTitle "Section" "designers" }}
-    <div class="bio-expand-container">
+    <span class="bio-expand-container">
       <a>{{ .Params.designer }}</a>
       <div class="bio-expander">{{ .Content }}</div>
-    </div>
+    </span>
     {{ end }}
   </div>
 </div>
