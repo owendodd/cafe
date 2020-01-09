@@ -24,7 +24,7 @@ link_title = "Garage/ Vice"
 link_url = "https://garage.vice.com/en_us/article/8xpnwp/cafe-forgot"
 template = "link"
 [[press]]
-link_title = "Fashionista"
+link_title = "Fashionista (Jan 2019)"
 link_url = "https://fashionista.com/2019/01/upcycled-clothing-sustainable-fashion-trend"
 template = "link"
 [[press]]
@@ -56,8 +56,12 @@ link_title = "Nylon"
 link_url = "https://nylon.com/cafe-forgot-designers"
 template = "link"
 [[press]]
-link_title = "Fashionista (2019)"
+link_title = "Fashionista (Dec 2019)"
 link_url = "https://fashionista.com/2019/12/cafe-forgot-new-york-pop-up-weird-fashion"
+template = "link"
+[[press]]
+link_title = "Document Journal"
+link_url = "https://www.documentjournal.com/2019/12/welcome-to-cafe-forgot-where-the-shop-co-founders-serve-curated-fashion-with-a-healthy-dose-of-irreverence/"
 template = "link"
 
 +++
