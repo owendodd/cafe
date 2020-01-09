@@ -51,6 +51,10 @@ template = "link"
 link_title = "The Cut"
 link_url = "https://www.thecut.com/2019/08/cafe-forgot-store.html"
 template = "link"
+[[press]]
+link_title = "Nylon"
+link_url = "https://nylon.com/cafe-forgot-designers"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
