@@ -63,6 +63,10 @@ template = "link"
 link_title = "Document Journal"
 link_url = "https://www.documentjournal.com/2019/12/welcome-to-cafe-forgot-where-the-shop-co-founders-serve-curated-fashion-with-a-healthy-dose-of-irreverence/"
 template = "link"
+[[press]]
+link_title = "Flaunt"
+link_url = "https://www.flaunt.com/content/vita-haas-lucy-weisner-cafe-forgot"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
