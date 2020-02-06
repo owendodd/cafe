@@ -32,7 +32,7 @@ link_title = "Office "
 link_url = "http://officemagazine.net/its-not-hard-remember-café-forgot"
 template = "link"
 [[press]]
-link_title = "WWD"
+link_title = "WWD (2019)"
 link_url = "https://wwd.com/fashion-news/fashion-features/aging-millennials-soothe-themselves-childlike-fashions-1203078131/"
 template = "link"
 [[press]]
