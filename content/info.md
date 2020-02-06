@@ -67,6 +67,10 @@ template = "link"
 link_title = "Flaunt"
 link_url = "https://www.flaunt.com/content/vita-haas-lucy-weisner-cafe-forgot"
 template = "link"
+[[press]]
+link_title = "WWD (2020)"
+link_url = "https://wwd.com/fashion-news/fashion-features/new-york-shopping-young-designers-cafe-forgot-boutique-1203459573/"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
