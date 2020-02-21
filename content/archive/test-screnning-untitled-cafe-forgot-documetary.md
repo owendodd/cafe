@@ -9,4 +9,4 @@ openingsoon = false
 shopslideshow = []
 
 +++
-On February 24th, 2020, Café Forgot and No Agency New York will host an intimate test screening of Cyrus Duff's upcoming untitled documentary on Cafe's inception and journey from unique ephemeral pop-ups to long-term East Village lease. Duff's untitled documentary also covers the collaboration and conflict between Café Forgot and No Agency New York on a recent shoot. RSVP ONLY — rsvp@noagency.nyc
+On February 24th, 2020, Café Forgot and No Agency New York will host an intimate test screening of Cyrus Duff's upcoming untitled documentary on Cafe's inception and journey from ephemeral pop-ups to a long-term East Village lease. Duff's untitled documentary also covers the collaboration and conflict between Café Forgot and No Agency New York on a recent shoot. RSVP ONLY — rsvp@noagency.nyc
