@@ -75,6 +75,10 @@ template = "link"
 link_title = "i-D"
 link_url = "https://i-d.vice.com/en_uk/article/akwj85/cafe-forgot-is-the-new-york-pop-up-shop-showcasing-emerging-designers"
 template = "link"
+[[press]]
+link_title = "Interview"
+link_url = "https://www.interviewmagazine.com/fashion/cafe-forgot-traveling-pop-up-shop-model"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
