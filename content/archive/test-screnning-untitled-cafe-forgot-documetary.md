@@ -12,6 +12,8 @@ On February 24th, 2020, Café Forgot and No Agency New York will host an intimat
 
 **RSVP ONLY — rsvp@noagency.nyc**
 
-**Anthology Film Archives**
+**8 PM, Monday, February 24**
 
-**32 2nd Ave NY NY**
+**ANTHOLOGY FILM ARCHIVES**
+
+**32 2nd Ave New York NY 10003**
