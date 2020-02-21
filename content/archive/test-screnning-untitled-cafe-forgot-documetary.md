@@ -1,5 +1,5 @@
 +++
-address = "Test Screen: \"Untitled Café Forgot Documentary\" @ Anthology Film Archives"
+address = "Test Screen: \"Untitled Café Forgot Documentary\""
 date = 2020-02-19T05:00:00Z
 draft = true
 duration = "Feb 24, 2020"
