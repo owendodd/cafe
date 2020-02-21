@@ -6,7 +6,7 @@ duration = "Feb 1—29"
 event = true
 open = true
 openingsoon = false
-shopslideshow = ["/uploads/IMG-9331.PNG", "/uploads/IMG-9330.PNG", "/uploads/IMG-9329.PNG", "/uploads/IMG-9328.JPG", "/uploads/IMG-9327.PNG", "/uploads/IMG-9326.PNG", "/uploads/IMG-9325.PNG", "/uploads/IMG-9324.JPG", "/uploads/IMG-9312.JPG", "/uploads/IMG-9322.JPG", "/uploads/IMG-9220.JPG", "/uploads/IMG-9320.PNG", "/uploads/IMG-9319.PNG", "/uploads/IMG-9318.JPG", "/uploads/IMG-9317.PNG", "/uploads/IMG-9314.JPG"]
+shopslideshow = ["/uploads/IMG-9326.PNG", "/uploads/IMG-9320.PNG", "/uploads/IMG-9319.PNG", "/uploads/IMG-9327.PNG", "/uploads/IMG-9331.PNG", "/uploads/IMG-9325.PNG", "/uploads/IMG-9329.PNG", "/uploads/IMG-9330.PNG", "/uploads/IMG-9317.PNG", "/uploads/IMG-9318.JPG", "/uploads/IMG-9312.JPG", "/uploads/IMG-9322.JPG", "/uploads/IMG-9220.JPG", "/uploads/IMG-9328.JPG", "/uploads/IMG-9324.JPG", "/uploads/IMG-9314.JPG"]
 
 +++
 Photography: Tasmin Meyer Ersahin.
