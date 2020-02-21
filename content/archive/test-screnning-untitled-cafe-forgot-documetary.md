@@ -1,7 +1,7 @@
 +++
 address = "Test Screening: \"Untitled Café Forgot Documentary\""
 date = 2020-02-19T05:00:00Z
-duration = "Feb 24, 2020"
+duration = "Feb 24, 2020, 8 PM"
 event = true
 open = false
 openingsoon = false
