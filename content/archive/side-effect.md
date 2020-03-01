@@ -21,4 +21,4 @@ Then starting Mar 22, Natural Dyer and artist Cara Marie Piazza presents an inst
 
 There will be a curated selection of objects by Cadis Made, Vessels by Alyse Gagnon, Terra Quilting Co bags and more
 
-## [TICKETS](https://www.eventbrite.com/e/side-effect-tickets-97539901471 "side-effect")
+# [**_TICKETS_**](https://www.eventbrite.com/e/side-effect-tickets-97539901471 "side-effect")
