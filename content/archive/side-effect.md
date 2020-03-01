@@ -6,7 +6,7 @@ duration = "Mar 19—25, 2020"
 event = true
 open = false
 openingsoon = false
-shopslideshow = []
+shopslideshow = ["/uploads/Screen Shot 2020-02-29 at 8.10.17 PM-2.png"]
 
 +++
 Café Forgot presents SIDE EFFECT imagined by Jade Forrest Marks + Cara Marie Piazza.
