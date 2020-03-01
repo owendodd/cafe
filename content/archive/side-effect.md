@@ -21,6 +21,4 @@ Then starting Mar 22, Natural Dyer and artist Cara Marie Piazza presents an inst
 
 There will be a curated selection of objects by Cadis Made, Vessels by Alyse Gagnon, Terra Quilting Co bags and more
 
-.CALENDAR
-
-![RSVP/ TICKETS](/uploads/Screen Shot 2020-02-29 at 8.10.17 PM-1.png "calendar")
+## CALENDAR
