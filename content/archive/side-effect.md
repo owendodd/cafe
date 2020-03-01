@@ -9,9 +9,7 @@ openingsoon = false
 shopslideshow = []
 
 +++
-Cafe Forgot presents SIDE EFFECT
-
-imagined by Jade Forrest Marks + Cara Marie Piazza.
+Café Forgot presents SIDE EFFECT imagined by Jade Forrest Marks + Cara Marie Piazza.
 
 Join us for our opening fête on the evening of Thursday March 19th co-hosted by a queer cooking collective, Spiral Theory Test Kitchen. Delight in a Cum Over Cake by 69herbs + STTK, made with aphrodisiac and heart opening herbs. Shroud and immerse yourself in a sonically charged dye bath installation by Cara Marie Piazza and Emil Bognar Nasdor. Color changing libations and spiked kombucha as well as edible treats will be provided.
 
