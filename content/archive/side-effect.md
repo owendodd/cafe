@@ -6,6 +6,7 @@ event = true
 open = false
 openingsoon = false
 shopslideshow = []
+tickets = true
 
 +++
 Café Forgot presents SIDE EFFECT imagined by Jade Forrest Marks + Cara Marie Piazza.
