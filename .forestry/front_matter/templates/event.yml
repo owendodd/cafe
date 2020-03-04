@@ -34,10 +34,10 @@ fields:
   name: openingsoon
   label: Opening Soon
   description: Select if the shop is opening soon
-  - type: boolean
+- type: boolean
   name: tickets
   label: Tickets
-  description: Select if the event has tickets
+  description: Toggle if event has tickets
 pages:
 - content/archive/165_duane_st.md
 - content/archive/170a_sufflolk_st_pt1.md
