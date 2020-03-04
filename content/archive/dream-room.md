@@ -4,7 +4,7 @@ date = 2020-02-28T05:00:00Z
 duration = "Mar 9—13, 2020"
 event = true
 open = false
-openingsoon = false
+openingsoon = true
 shopslideshow = []
 tickets = false
 
