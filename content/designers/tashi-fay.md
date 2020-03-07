@@ -1,6 +1,5 @@
 +++
 designer = "TASHi FAY"
-draft = true
 gallery = []
 title = "tashi-fay"
 
