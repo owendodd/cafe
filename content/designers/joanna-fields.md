@@ -4,4 +4,4 @@ gallery = []
 title = "joanna-fields"
 
 +++
-New York based artist Joanna Fields creates one-of-a-kind iPhone cases for Café Forgot inspired by stoner clown psychedelia.
+Joanna Fields is an artist living in New York. Her work evokes stoner clown psychedelia, simultaneously adorable and grotesque.
