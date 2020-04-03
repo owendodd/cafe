@@ -1,7 +1,6 @@
 +++
 address = "Digital Café April"
 date = 2020-04-01T04:00:00Z
-draft = true
 duration = "Apr 2—30, 2020"
 event = true
 open = true
