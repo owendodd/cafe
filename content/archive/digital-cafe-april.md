@@ -10,4 +10,4 @@ shopslideshow = []
 tickets = false
 
 +++
-In light of the pandemic, Café Forgot has temporarily closed our brick and mortar location and has moved to the world-wide-web for the month of April. [Click to shop!](https://shop.cafeforgot.com/ "Click to shop")
+In light of the pandemic, Café Forgot has temporarily closed our brick and mortar location and has moved to the world-wide-web for the month of April. [**_Click to shop!_**](https://shop.cafeforgot.com/ "Click to shop")
