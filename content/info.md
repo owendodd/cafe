@@ -79,6 +79,14 @@ template = "link"
 link_title = "Interview"
 link_url = "https://www.interviewmagazine.com/fashion/cafe-forgot-traveling-pop-up-shop-model"
 template = "link"
+[[press]]
+link_title = "Whitewall"
+link_url = "https://www.whitewall.art/fashion/new-yorks-coolest-pop-shop-cafe-forgot-launches-e-comm-site"
+template = "link"
+[[press]]
+link_title = "WWD (Apr 2020)"
+link_url = "https://wwd.com/fashion-news/fashion-scoops/experimental-fashion-boutique-cafe-forgot-launches-e-commerce-site-1203555633/"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
