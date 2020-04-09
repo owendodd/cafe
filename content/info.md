@@ -60,7 +60,7 @@ link_title = "Fashionista (Dec 2019)"
 link_url = "https://fashionista.com/2019/12/cafe-forgot-new-york-pop-up-weird-fashion"
 template = "link"
 [[press]]
-link_title = "Document Journal"
+link_title = "Document Journal (Dec 2019)"
 link_url = "https://www.documentjournal.com/2019/12/welcome-to-cafe-forgot-where-the-shop-co-founders-serve-curated-fashion-with-a-healthy-dose-of-irreverence/"
 template = "link"
 [[press]]
