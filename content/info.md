@@ -68,7 +68,7 @@ link_title = "Flaunt"
 link_url = "https://www.flaunt.com/content/vita-haas-lucy-weisner-cafe-forgot"
 template = "link"
 [[press]]
-link_title = "WWD (2020)"
+link_title = "WWD (Feb 2020)"
 link_url = "https://wwd.com/fashion-news/fashion-features/new-york-shopping-young-designers-cafe-forgot-boutique-1203459573/"
 template = "link"
 [[press]]
