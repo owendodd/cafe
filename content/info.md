@@ -87,6 +87,10 @@ template = "link"
 link_title = "WWD (Apr 2020)"
 link_url = "https://wwd.com/fashion-news/fashion-scoops/experimental-fashion-boutique-cafe-forgot-launches-e-commerce-site-1203555633/"
 template = "link"
+[[press]]
+link_title = "Document Journal (Apr 2020)"
+link_url = "https://www.documentjournal.com/2020/04/cafe-forgots-guide-to-shopping-vintage-while-staying-home/"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
