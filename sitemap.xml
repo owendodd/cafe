@@ -4,17 +4,33 @@
   
   <url>
     <loc>http://cafeforgot.com/archive/627-e-6th-st/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
+    <lastmod>2020-04-02T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/</loc>
+    <lastmod>2020-04-02T16:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/digital-cafe-april/</loc>
+    <lastmod>2020-04-01T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/side-effect/</loc>
+    <lastmod>2020-02-29T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/dream-room/</loc>
+    <lastmod>2020-02-28T05:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://cafeforgot.com/archive/test-screnning-untitled-cafe-forgot-documetary/</loc>
     <lastmod>2020-02-19T05:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cafeforgot.com/archive/feb-1/</loc>
-    <lastmod>2020-02-18T05:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -45,6 +61,12 @@
   <url>
     <loc>http://cafeforgot.com/archive/stand_up_comedy/</loc>
     <lastmod>2019-04-22T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/</loc>
+    <lastmod>2019-03-02T19:04:52+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -347,19 +369,7 @@
   </url>
   
   <url>
-    <loc>http://cafeforgot.com/archive/</loc>
-    <lastmod>2020-02-29T17:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://cafeforgot.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://cafeforgot.com/designers/</loc>
-    <lastmod>2019-03-02T19:04:52+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -373,11 +383,23 @@
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/alice-lancaster/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/all-is-a-gentle-spring/</loc>
   </url>
   
   <url>
     <loc>http://cafeforgot.com/designers/aurelia-cotton/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/beepy-bella/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/blobbs/</loc>
   </url>
   
   <url>
@@ -397,11 +419,23 @@
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/docwang/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/emily-fitzpatrick/</loc>
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/emilydawnlong/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/emma-pryde/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/fior-di-latte/</loc>
   </url>
   
   <url>
@@ -425,7 +459,15 @@
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/joanna-fields/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/karla-laidlaw/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/krystal-paniagua/</loc>
   </url>
   
   <url>
@@ -442,6 +484,10 @@
   
   <url>
     <loc>http://cafeforgot.com/designers/m-hiramatsu/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/mgn/</loc>
   </url>
   
   <url>
@@ -469,6 +515,10 @@
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/roseanne-johnson/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/runny-babbit/</loc>
   </url>
   
@@ -481,6 +531,18 @@
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/sparkle-diva/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/susan-alexandra/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/tashi-fay/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/timosassen/</loc>
   </url>
   
@@ -489,11 +551,19 @@
   </url>
   
   <url>
+    <loc>http://cafeforgot.com/designers/venicew/</loc>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/designers/zak-syroka/</loc>
   </url>
   
   <url>
     <loc>http://cafeforgot.com/designers/zepherina/</loc>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/designers/zmsw/</loc>
   </url>
   
 </urlset>
