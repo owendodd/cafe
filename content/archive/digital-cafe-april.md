@@ -5,7 +5,7 @@ duration = "Apr 2—30, 2020"
 event = false
 open = true
 openingsoon = false
-shopslideshow = ["/uploads/Internet Cafe Image.jpg"]
+shopslideshow = ["/uploads/DSC01076.jpg", "/uploads/DSC01853.jpg", "/uploads/DSC01647.jpg", "/uploads/DSC01618.jpg", "/uploads/DSC01126.jpg", "/uploads/DSC02535.jpg", "/uploads/DSC01632.jpg"]
 tickets = false
 
 +++
