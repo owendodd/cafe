@@ -1,11 +1,12 @@
 +++
 address = "Internet Café"
 date = 2020-04-20T04:00:00Z
+draft = true
 duration = "Apr 2—30, 2020"
 event = false
 open = true
 openingsoon = false
-shopslideshow = []
+shopslideshow = ["/uploads/Internet Cafe Image.jpg"]
 tickets = false
 
 +++
