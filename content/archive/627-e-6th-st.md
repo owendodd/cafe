@@ -1,6 +1,6 @@
 +++
 address = "627 E 6th St"
-date = 2020-04-02T16:00:00Z
+date = 2020-04-17T16:00:00Z
 duration = "Dec 2019—Dec 2020"
 event = false
 open = false
