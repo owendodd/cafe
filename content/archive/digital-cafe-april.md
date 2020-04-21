@@ -1,8 +1,8 @@
 +++
 address = "Internet Café"
-date = 2020-04-01T04:00:00Z
+date = 2020-04-20T04:00:00Z
 duration = "Apr 2—30, 2020"
-event = true
+event = false
 open = true
 openingsoon = false
 shopslideshow = []
