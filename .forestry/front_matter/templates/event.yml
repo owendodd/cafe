@@ -38,6 +38,10 @@ fields:
   name: tickets
   label: Tickets
   description: Toggle if event has tickets
+- name: watchnow
+  type: boolean
+  label: Watch now
+  description: Toggle for video
 pages:
 - content/archive/165_duane_st.md
 - content/archive/170a_sufflolk_st_pt1.md
