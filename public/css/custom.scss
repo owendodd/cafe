@@ -140,7 +140,8 @@ p {
     z-index: 200;
     .opennow,
     .opensoon,
-    .tickets {
+    .tickets,
+    .watchnow {
       border-color: lightgray;
     }
   }
@@ -170,7 +171,8 @@ p {
 
 .opennow,
 .opensoon,
-.tickets {
+.tickets,
+.watchnow {
   position: absolute;
   margin-left: auto;
   margin-right: auto;
@@ -433,8 +435,9 @@ footer {
     font-size: 24px;
   }
   .opennow,
-  .opensoon
-  .tickets {
+  .opensoon,
+  .tickets,
+  .watchnow {
     font-size: 12px;
     width: 70px;
     top: 3px;
