@@ -65,7 +65,7 @@ setInterval(function () {
 
 $('.shop>.header').click(function () {
   var expander = $(this).siblings(),
-      opensign = $('.opennow, .opensoon, .tickets, .watchnow');
+      opensign = $('.opennow, .opensoon, .tickets');
 
   expander.toggleClass('show');
   opensign.toggleClass('hide');
