@@ -62,10 +62,9 @@ setInterval(function () {
 
 
 
-
 $('.shop>.header').click(function () {
   var expander = $(this).siblings(),
-      opensign = $('.opennow, .opensoon, .tickets');
+      opensign = $('.opennow, .opensoon, .tickets, .watchnow');
 
   expander.toggleClass('show');
   opensign.toggleClass('hide');
@@ -114,16 +113,23 @@ $(function () {
   var open     = $('.shop[data-open="true"]'),
       opensoon = $('.shop[data-opensoon="true"]');
       tickets = $('.shop[data-tickets="true"]');
+      watchnow = $('.shop[data-watchnow="true"]');
 
   open.children('.header').append('<div class="opennow">Open now</div>');
   opensoon.children('.header').append('<div class="opensoon">Opening soon</div>');
   tickets.children('.header').append('<div class="tickets">Tickets</div>');
+  watchnow.children('.header').append('<div class="watchnow">Watch now</div>');
   
 });
 
 $(function () {
   open  = $('.shop[data-event="true"]');
+  open.addClass('event');
+  
+});
 
+$(function () {
+  open  = $('.shop[data-event="true"]');
   open.addClass('event');
   
 });
