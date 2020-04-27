@@ -140,8 +140,7 @@ p {
     z-index: 200;
     .opennow,
     .opensoon,
-    .tickets,
-    .watchnow {
+    .tickets {
       border-color: lightgray;
     }
   }
@@ -171,8 +170,7 @@ p {
 
 .opennow,
 .opensoon,
-.tickets,
-.watchnow {
+.tickets {
   position: absolute;
   margin-left: auto;
   margin-right: auto;
@@ -181,7 +179,7 @@ p {
   left: 0;
   right: 0;
   font-size: 16px;
-  padding: 8px 10px 6px;
+  padding: 8px 10px 8px;
   border: 3px solid black;
   border-radius: 6px;
   text-transform: uppercase;
@@ -386,7 +384,7 @@ footer {
     border: 3px solid black !important;
     height: 52px !important;
     margin-left: 10px !important;
-    padding: 8px 10px 6px !important;
+    padding: 8px 10px 8px !important;
     &:hover {
       background-color: black !important;
       color: white !important;
@@ -435,9 +433,8 @@ footer {
     font-size: 24px;
   }
   .opennow,
-  .opensoon,
-  .tickets,
-  .watchnow {
+  .opensoon
+  .tickets {
     font-size: 12px;
     width: 70px;
     top: 3px;
