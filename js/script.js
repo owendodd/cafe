@@ -124,6 +124,8 @@ $(function () {
   tickets.children('.header').append('<div class="tickets">Tickets</div>');
   watchnow.children('.header').append('<div class="watchnow">Watch now</div>');
 
+  
+
 });
 
 $(function () {
@@ -134,3 +136,4 @@ $(function () {
 $(function () {
   $(".slider:empty, .slider:contains(' ')").parent().hide();
 });
+
