@@ -1,6 +1,10 @@
 $(function () {
   var first_slide = $('.slider>.slide:first-of-type'),
-    total_slides = $('.slider>.slide').length;
+      total_slides = $('.slider>.slide').length;
+
+  if (total_slides === 0) {
+    console.log("this")
+  }
 
   first_slide.addClass('show');
   $('.indicator').html('1 / ' + total_slides);
@@ -17,6 +21,7 @@ $(function () {
     next_slide.addClass('show');
 
     $('#indicator').html((next_slide.index() + 1) + ' / ' + total_slides);
+  
 
   });
 
@@ -65,7 +70,7 @@ setInterval(function () {
 
 $('.shop>.header').click(function () {
   var expander = $(this).siblings(),
-      opensign = $('.opennow, .opensoon, .tickets');
+      opensign = $('.opennow, .opensoon, .tickets, .watchnow');
 
   expander.toggleClass('show');
   opensign.toggleClass('hide');
@@ -112,13 +117,15 @@ $('.bio-expand-container>a').click(function () {
 
 $(function () {
   var open     = $('.shop[data-open="true"]'),
-      opensoon = $('.shop[data-opensoon="true"]');
-      tickets = $('.shop[data-tickets="true"]');
+      opensoon = $('.shop[data-opensoon="true"]'),
+      tickets = $('.shop[data-tickets="true"]'),
+      watchnow = $('.shop[data-watchnow="true"]');
 
   open.children('.header').append('<div class="opennow">Open now</div>');
   opensoon.children('.header').append('<div class="opensoon">Opening soon</div>');
   tickets.children('.header').append('<div class="tickets">Tickets</div>');
-  
+  watchnow.children('.header').append('<div class="watchnow">Watch now</div>');
+
 });
 
 $(function () {

@@ -1,7 +1,6 @@
 +++
 address = "Documentary Test Screening"
 date = 2020-04-21T04:00:00Z
-draft = true
 duration = "Apr 22, 2020"
 event = true
 open = false
