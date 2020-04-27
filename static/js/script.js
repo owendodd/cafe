@@ -2,10 +2,6 @@ $(function () {
   var first_slide = $('.slider>.slide:first-of-type'),
       total_slides = $('.slider>.slide').length;
 
-  if (total_slides === 0) {
-    console.log("this")
-  }
-
   first_slide.addClass('show');
   $('.indicator').html('1 / ' + total_slides);
 
@@ -21,6 +17,8 @@ $(function () {
     next_slide.addClass('show');
 
     $('#indicator').html((next_slide.index() + 1) + ' / ' + total_slides);
+
+    console.log(total_slides);
   
 
   });
@@ -130,7 +128,9 @@ $(function () {
 
 $(function () {
   open  = $('.shop[data-event="true"]');
-
   open.addClass('event');
-  
+});
+
+$(function () {
+  $(".slider:empty, .slider:contains(' ')").parent().hide();
 });
