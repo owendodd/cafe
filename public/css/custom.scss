@@ -1,6 +1,5 @@
 @import '_normalize';
 @import '_fonts';
-// @import '_sss';
 // Mixins
 @mixin transition {
   -webkit-transition: all 100ms ease;
@@ -177,7 +176,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   text-align: center;
-  width: 100px;
+  width: 105px;
   left: 0;
   right: 0;
   font-size: 16px;
