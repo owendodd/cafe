@@ -73,7 +73,6 @@ $('.shop>.header').click(function () {
   expander.toggleClass('show');
   opensign.toggleClass('hide');
 
-  shop.prshopDefault();
 });
 
 $('#archive').click(function () {
@@ -117,23 +116,14 @@ $(function () {
   var open     = $('.shop[data-open="true"]'),
       opensoon = $('.shop[data-opensoon="true"]'),
       tickets = $('.shop[data-tickets="true"]'),
-      watchnow = $('.shop[data-watchnow="true"]');
+      watchnow = $('.shop[data-watchnow="true"]'),
+      event  = $('.shop[data-event="true"]');
 
   open.children('.header').append('<div class="opennow">Open now</div>');
   opensoon.children('.header').append('<div class="opensoon">Opening soon</div>');
   tickets.children('.header').append('<div class="tickets">Tickets</div>');
   watchnow.children('.header').append('<div class="watchnow">Watch now</div>');
+  event.addClass('event');
 
-  
-
+  $(".slider:empty, .slider:contains('')").addClass(".wtf");
 });
-
-$(function () {
-  open  = $('.shop[data-event="true"]');
-  open.addClass('event');
-});
-
-$(function () {
-  $(".slider:empty, .slider:contains(' ')").parent().hide();
-});
-
