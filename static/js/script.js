@@ -125,5 +125,8 @@ $(function () {
   watchnow.children('.header').append('<div class="watchnow">Watch now</div>');
   event.addClass('event');
 
-  $(".slider:empty, .slider:contains('')").addClass(".wtf");
+  if ($(".slider").children('.slide').length == 0) {
+    $(this).parent().hide;
+  };
+
 });
