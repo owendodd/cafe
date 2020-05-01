@@ -6,6 +6,13 @@ $(function () {
   $('.indicator').html('1 / ' + total_slides);
 
 
+  $( ".slider" ).each(function() {
+    if (this.childElementCount < 1) {
+      console.log(this);
+    } 
+  });
+
+
   $('.next').click(function () {
     var slider = $(this).closest('.content').children('.slider'),
       current_slide = slider.children('.slide.show'),
@@ -18,8 +25,7 @@ $(function () {
 
     $('#indicator').html((next_slide.index() + 1) + ' / ' + total_slides);
 
-    console.log(total_slides);
-  
+    console.log(total_slides);    
 
   });
 
@@ -124,9 +130,6 @@ $(function () {
   tickets.children('.header').append('<div class="tickets">Tickets</div>');
   watchnow.children('.header').append('<div class="watchnow">Watch now</div>');
   event.addClass('event');
-
-  if ($(".slider").children('.slide').length == 0) {
-    $(this).parent().hide;
-  };
+  // $(".slider:empty, .slider:contains('')").parent().hide;
 
 });
