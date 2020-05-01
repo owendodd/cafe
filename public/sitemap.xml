@@ -3,6 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://cafeforgot.com/archive/fashion-meditation-with-luke-simon/</loc>
+    <lastmod>2020-04-24T04:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/</loc>
+    <lastmod>2020-04-24T04:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://cafeforgot.com/archive/digital-cafe-april/</loc>
     <lastmod>2020-04-20T04:00:00+00:00</lastmod>
   </url>
@@ -10,12 +21,6 @@
   <url>
     <loc>http://cafeforgot.com/archive/documentary-test-screnning/</loc>
     <lastmod>2020-04-20T04:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://cafeforgot.com/archive/</loc>
-    <lastmod>2020-04-20T04:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
