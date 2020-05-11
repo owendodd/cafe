@@ -60,8 +60,13 @@ setInterval(function () {
     .next()
     .fadeIn(0)
     .end()
+<<<<<<< HEAD
     .appendTo('.gallery');
 }, 2000);
+=======
+    .appendTo(".gallery");
+}, 2100);
+>>>>>>> bc294cefb2543755fd5e123f53404cd710a4f77c
 
 
 
