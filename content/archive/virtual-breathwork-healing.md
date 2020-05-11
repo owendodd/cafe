@@ -1,7 +1,6 @@
 +++
 address = "Virtual Breathwork Healing"
 date = 2020-05-10T04:00:00Z
-draft = true
 duration = "May 20, 7—9 PM"
 event = false
 open = false
