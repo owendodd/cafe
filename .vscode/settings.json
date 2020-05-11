@@ -1,3 +1,4 @@
 {
-  "editor.fontFamily": "'Atlas Typewriter', monospace"
+  "editor.fontFamily": "'Atlas Typewriter', monospace",
+  "liveServer.settings.port": 5501
 }
