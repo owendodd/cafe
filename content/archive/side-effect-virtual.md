@@ -1,7 +1,6 @@
 +++
 address = "Side Effect: Virtual"
 date = 2020-05-18T04:00:00Z
-draft = true
 duration = "May 21— 24, 2020"
 event = false
 open = false
