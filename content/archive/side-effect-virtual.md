@@ -11,6 +11,6 @@ tickets = true
 watchnow = false
 
 +++
-Café Forgot in collaboration with Jade Forrest Marks and Cara Marie Piazza presents SIDE EFFECT: VIRTUAL, a series of workshops focused on healing and catharsis during the time of COVID-19.
+Café Forgot in collaboration with Jade Forrest Marks and Cara Marie Piazza presents Side Effect: Virtual, a series of workshops focused on healing and catharsis during the time of COVID-19.
 
 [**_TICKETS_**](https://shop.cafeforgot.com/shop/virtual-side-effect-/88 "tickets")
