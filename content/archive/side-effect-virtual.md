@@ -6,10 +6,12 @@ event = false
 open = false
 openingsoon = false
 shopslideshow = []
-tickets = true
+tickets = false
 watchnow = false
 
 +++
-Café Forgot in collaboration with Jade Forrest Marks and Cara Marie Piazza presents Side Effect: Virtual, a series of workshops focused on healing and catharsis during the time of COVID-19.
+Café Forgot in collaboration with Jade Forrest Marks and Cara Marie Piazza hosted a series of virtual workshops focused on healing and catharsis during the time of COVID-19.  
 
-[**_TICKETS_**](https://shop.cafeforgot.com/shop/virtual-side-effect-/88 "tickets")
+Workshops included: 
+
+FOUND FLORA SCULPTURES with Fleurotica, PYSCHOPHARMACOLOGICAL MEDITATIONS with Gideon Jacobs, EMBODIED MOVEMENT WORKSHOP with Marisa Hall, BODYSPELL: Somatic Plant Meditation + Improvised Movement Session with GOODWITCH, INTRO TO HARM REDUCTION with Ripley Soprano, HERBS + ELIXIRS FOR RELATIONSHIPS with Suanny Upegui of Casa Finca, EDIBLE BEAUTY: CONVERSATION + DEMONSTRATION OF SPRING MEDICINALS with Antonia Perez, and VIRTUAL REIKI SESSIONS with lily bo shapiro
