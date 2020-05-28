@@ -65,8 +65,8 @@ setInterval(function () {
     .next()
     .fadeIn(0)
     .end()
-    .appendTo('.gallery');
-}, 2000);
+    .appendTo(".gallery");
+}, 2100);
 
 $(".shop>.header").click(function () {
   var expander = $(this).siblings(),
