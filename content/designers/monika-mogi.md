@@ -1,6 +1,5 @@
 +++
 designer = "Monika Mogi"
-draft = true
 gallery = []
 title = "monika-mogi"
 
