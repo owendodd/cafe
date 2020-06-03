@@ -1,0 +1,8 @@
++++
+designer = "Monika Mogi"
+draft = true
+gallery = []
+title = "monika-mogi"
+
++++
+Monika Mogi is an artist from Tokyo, currently living in NYC. Mainly working as a photographer and experimenting with the mediums of resin, clay, and collage, Mogi's pieces for Café Forgot are one-of-a-kind mementos from her art projects.
