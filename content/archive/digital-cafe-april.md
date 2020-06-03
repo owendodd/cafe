@@ -1,7 +1,7 @@
 +++
 address = "Internet Café"
 date = 2020-04-20T04:00:00Z
-duration = "Apr 2—May 31, 2020"
+duration = "Apr 2—Jun 30, 2020"
 event = false
 open = true
 openingsoon = false
