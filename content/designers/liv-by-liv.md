@@ -4,4 +4,4 @@ gallery = []
 title = "liv-by-liv"
 
 +++
-Started by a preschool teacher, LivByLiv is made to take you from whatever you may be doing by day to whatever you may be doing at night, in comfort and style. Each sustainable piece is hand made in Liv’s Brooklyn studio using dead-stock recycled fabric.
+LivByLiv is a sustainable clothing brand based in Greenpoint, Brooklyn. Liv takes a full lifecycle approach when hand making each piece, ensuring that every material used down to the thread is recycled. Materials range from handkerchiefs and doilies to drapes and bed linens, each piece having lived many lives with some dating back as far as the start of the 20th century. Liv hopes that these sage textiles continue to live full lives after being carefully crafted into garments, and are passed down, bearing witness to life’s illustrious moments for years to come.
