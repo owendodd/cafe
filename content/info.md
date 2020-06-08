@@ -95,6 +95,10 @@ template = "link"
 link_title = "HYPEBAE"
 link_url = "https://hypebae.com/2020/5/coronavirus-fashion-industry-retail-store-covid-19-change-impact-effect-consumers-independent-designers-susan-alexandra-elizabeth-hilfiger-cafe-forgot"
 template = "link"
+[[press]]
+link_title = "New York Magazine"
+link_url = "https://nymag.com/strategist/2020/05/cafe-forgot-nyc-online-shop.html"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
