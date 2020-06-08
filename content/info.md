@@ -99,6 +99,10 @@ template = "link"
 link_title = "New York Magazine"
 link_url = "https://nymag.com/strategist/2020/05/cafe-forgot-nyc-online-shop.html"
 template = "link"
+[[press]]
+link_title = "Vogue (June 2020)"
+link_url = "https://www.vogue.com/article/shop-donations-black-lives-matter"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
