@@ -29,9 +29,52 @@
   </div>
 
 
-{{ partial "site-toc.html" . }}
+  <div class="toc-wrapper blur">
 
-  <!-- {{ .Content }} -->
+    {{ range where .Site.Pages.ByDate.Reverse "Section" "archive" }}
+  
+    <div class="shop" data-event="{{ .Params.event}}" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}" data-tickets="{{ .Params.tickets }}" data-watchnow="{{ .Params.watchnow }}">
+  
+      <a class="header">
+        <div class="title">{{.Params.address}}</div>
+        <div class="leader"></div>
+        <div class="dates">{{.Params.duration}}</div>
+      </a>
+  
+      <div class="toc-expander">
+        <div class="three-grid">
+          <div class="content three-col">
+  
+            <div class="controls">
+              <div class="prev">
+                <div class="icon"></div>
+              </div>
+              <div class="next">
+                <div class="icon"></div>
+              </div>
+            </div>
+  
+            <div class="slider">
+              {{ range .Params.shopslideshow }}
+              <div class="slide">
+                <img src="{{.}}">
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+  
+        <div class="desc three-grid">
+          <div class="two-col">{{.Content}}</div>
+          <div class="one-col"></div>
+        </div>
+  
+      </div>
+  
+    </div>
+  
+    {{ end }}
+  </div>
 
 {{ partial "site-footer.html" . }}
 
