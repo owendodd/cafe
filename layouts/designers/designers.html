@@ -6,7 +6,7 @@
 <div class="desc three-grid info">
   <div class="two-col">
     <p>CAFÉ FORGOT works with these designers and artists:</p>
-    {{ range where .Pages.ByTitle "Section" "designers" }}
+    {{ range where .Site.Pages.ByTitle "Section" "designers" }}
     <span class="bio-expand-container">
       <a>{{ .Params.designer }}</a>
       <div class="bio-expander">{{ .Content }}</div>

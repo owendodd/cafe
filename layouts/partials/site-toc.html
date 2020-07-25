@@ -1,6 +1,6 @@
 <div class="toc-wrapper blur">
 
-  {{ range where .Pages.ByDate.Reverse "Section" "archive" }}
+  {{ range where .Site.Pages.ByDate.Reverse "Section" "archive" }}
 
   <div class="shop" data-event="{{ .Params.event}}" data-opensoon="{{ .Params.openingsoon }}" data-open="{{ .Params.open }}" data-tickets="{{ .Params.tickets }}" data-watchnow="{{ .Params.watchnow }}">
 
