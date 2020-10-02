@@ -11,4 +11,6 @@ tickets = false
 watchnow = false
 
 +++
-[Download our digital book](/uploads/ceremony_scan.pdf "ceremony") featuring the work of Pratt Fashion graduates from the class of 2020. 
+Download our digital book featuring the work of Pratt Fashion graduates from the class of 2020. 
+
+    /uploads/ceremony_pdf.pdf
