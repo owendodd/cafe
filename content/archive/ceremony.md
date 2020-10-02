@@ -6,7 +6,7 @@ duration = "Oct 5, 2020"
 event = false
 open = false
 openingsoon = false
-shopslideshow = ["/uploads/ceremony.pdf"]
+shopslideshow = []
 tickets = false
 watchnow = false
 
