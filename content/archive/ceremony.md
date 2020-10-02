@@ -6,11 +6,9 @@ duration = "Oct 5, 2020"
 event = false
 open = false
 openingsoon = false
-shopslideshow = []
+shopslideshow = ["/uploads/ceremony.pdf"]
 tickets = false
 watchnow = false
 
 +++
-Download our digital book featuring the work of Pratt Fashion graduates from the class of 2020. 
-
-[https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9e28fbd7-fd58-4707-9cf2-9d4939514ef7](https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9e28fbd7-fd58-4707-9cf2-9d4939514ef7 "https://documentcloud.adobe.com/link/track?uri=urn:aaid:scds:US:9e28fbd7-fd58-4707-9cf2-9d4939514ef7")
+Download our digital book featuring the work of Pratt Fashion graduates from the class of 2020. [ceremony.pdf](/uploads/ceremony.pdf "ceremony.pdf")
