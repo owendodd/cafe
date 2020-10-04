@@ -1,6 +1,6 @@
 +++
 address = "Ceremony – Pratt 2020 Fashion"
-date = 2020-10-01T04:00:00Z
+date = 2020-09-30T04:00:00Z
 duration = "Oct 5, 2020"
 event = false
 open = false
