@@ -10,4 +10,4 @@ tickets = false
 watchnow = false
 
 +++
-Download our digital book featuring the work of Pratt Fashion graduates from the class of 2020: [ceremony-web.pdf](/uploads/ceremony-web.pdf "ceremony-web.pdf")
+Download our digital book featuring the work of Pratt Fashion graduates from the class of 2020: [**_DOWNLOAD HERE_**](https://cafeforgot.com/uploads/ceremony-web.pdf "ceremony")
