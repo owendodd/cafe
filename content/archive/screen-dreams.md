@@ -2,7 +2,7 @@
 address = "Screen Dreams"
 date = 2020-11-04T05:00:00Z
 duration = "Nov 11, 2020"
-event = true
+event = false
 open = false
 openingsoon = false
 shopslideshow = []
