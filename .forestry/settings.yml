@@ -25,7 +25,7 @@ sections:
 - type: document
   path: netlify.toml
   label: Netlify
-upload_dir: https://res.cloudinary.com/ddl3bmgkm/image/upload
+upload_dir: ''
 public_path: https://res.cloudinary.com/ddl3bmgkm/image/upload
 front_matter_path: ''
 use_front_matter_path: true
