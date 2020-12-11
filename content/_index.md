@@ -1,7 +1,7 @@
 +++
 date = "2018-09-04T21:42:35+00:00"
 designer = ""
-gallery = ["/uploads/cafeforgot_bryan_look4_017.jpg", "/uploads/cafeforgot_rose_look1_009.jpg", "/uploads/cafeforgot_rose2_janine1_012_4x5.jpg", "/uploads/IMG-9330.PNG", "/uploads/IMG-9325.PNG", "/uploads/CafeForgot_Sienna_Look1_013.jpg", "/uploads/CafeForgot_Sienna_Look2_011.jpg", "/uploads/CafeForgot_Yasmin_Look1_018.jpg", "/uploads/IMG_0004.JPG", "/uploads/duane-4.jpg", "/uploads/2211B3DB-57D5-4EF5-AC11-2A1FA840870C.jpeg", "/uploads/mirth-8.jpg", "/uploads/duane-1.jpg", "/uploads/CafeForgot_Sienna_Look4_015.jpg", "/uploads/suffolk1-5.jpg", "/uploads/pictureroom-4.jpg", "/uploads/pictureroom-6.jpg"]
+gallery = ["/v1607683424/2211B3DB-57D5-4EF5-AC11-2A1FA840870C_x9oouo.jpg", "/v1607683547/duane-4_ir2o4f.jpg", "/v1607683641/duane-1_b7wkfb.jpg", "/v1607683899/IMG-9325_srxqbz.png", "/v1607683955/cafeforgot_rose_look1_009_jacmpv.jpg", "/v1607684048/cafeforgot_rose2_janine1_017_qwlry2.jpg", "/v1607684056/CafeForgot_Sienna_Look1_013_zdnguh.jpg", "/v1607684058/CafeForgot_Sienna_Look2_011_vjgy0p.jpg", "/v1607684105/pictureroom-6_ywrdzl.jpg"]
 name = ""
 title = "_index"
 
