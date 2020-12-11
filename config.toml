@@ -1,5 +1,5 @@
 baseURL = "http://cafeforgot.com/"
-title = "Café Forgot"
+title = "CAFÉ FORGOT"
 
 [params]
-  cloudinary_url = "https://res.cloudinary.com/ddl3bmgkm/image/upload/"
+  cloudinary_url = "https://res.cloudinary.com/ddl3bmgkm/image/upload/w_auto,dpr_auto"

@@ -23,7 +23,7 @@
   <div class="gallery">
     {{ range .Params.gallery }}
     <div class="gallery-image-wrapper">
-      <img class="gallery-image" src="https://res.cloudinary.com/ddl3bmgkm/image/upload/{{.}}">
+      <img class="gallery-image" src="{{$.Site.Params.cloudinary_url}}/{{.}}">
     </div>
     {{ end }}
   </div>
