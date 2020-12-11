@@ -5,7 +5,7 @@ duration = "Aug 2–Sept 29, 2018"
 event = false
 open = false
 openingsoon = false
-shopslideshow = ["/uploads/duane-2.jpg", "/uploads/duane-3.jpg", "/uploads/duane-4.jpg", "/uploads/duane-6.jpg", "/uploads/duane-5.jpg", "/uploads/duane-7.jpg", "/uploads/duane-8.jpg", "/uploads/duane-9.jpg", "/uploads/duane-10.jpg", "/uploads/duane-11.jpg", "/uploads/duane-1.jpg"]
+shopslideshow = ["duane-2.jpg", "duane-3.jpg", "duane-4.jpg", "duane-6.jpg", "duane-5.jpg", "duane-7.jpg", "duane-8.jpg", "duane-9.jpg", "duane-10.jpg", "duane-11.jpg", "duane-1.jpg"]
 tickets = false
 title = "165_duane_st"
 

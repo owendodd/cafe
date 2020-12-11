@@ -5,7 +5,7 @@ duration = "Nov 10–18, 2018"
 event = false
 open = false
 openingsoon = false
-shopslideshow = ["/uploads/pictureroom-2.jpg", "/uploads/pictureroom-3.jpg", "/uploads/pictureroom-4.jpg", "/uploads/pictureroom-5.jpg", "/uploads/pictureroom-6.jpg", "/uploads/pictureroom-1.jpg", "/uploads/pictureroom-7.jpg", "/uploads/pictureroom-8.jpg"]
+shopslideshow = ["pictureroom-2.jpg", "pictureroom-3.jpg", "pictureroom-4.jpg", "pictureroom-5.jpg", "pictureroom-6.jpg", "pictureroom-1.jpg", "pictureroom-7.jpg", "pictureroom-8.jpg"]
 title = "picture_room"
 
 +++

@@ -5,7 +5,7 @@ duration = "Apr 2..."
 event = false
 open = true
 openingsoon = false
-shopslideshow = ["/uploads/DSC01076.jpg", "/uploads/DSC01557.jpg", "/uploads/DSC01853.jpg", "/uploads/DSC02260.jpg", "/uploads/DSC01647.jpg", "/uploads/DSC01618.jpg", "/uploads/DSC01126.jpg", "/uploads/DSC01783.jpg", "/uploads/DSC02535.jpg", "/uploads/DSC01632.jpg"]
+shopslideshow = ["DSC01076.jpg", "DSC01557.jpg", "DSC01853.jpg", "DSC02260.jpg", "DSC01647.jpg", "DSC01618.jpg", "DSC01126.jpg", "DSC01783.jpg", "DSC02535.jpg", "DSC01632.jpg"]
 tickets = false
 watchnow = false
 
