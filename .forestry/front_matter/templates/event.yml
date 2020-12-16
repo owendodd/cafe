@@ -42,6 +42,12 @@ fields:
   type: boolean
   label: Watch now
   description: Toggle for video
+- name: video_embed
+  type: text
+  config:
+    required: false
+  label: Video embed
+  description: Paste embed code here
 pages:
 - content/archive/165_duane_st.md
 - content/archive/170a_sufflolk_st_pt1.md
