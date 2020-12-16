@@ -13,3 +13,6 @@ watchnow = true
 Campaign by Monika Mogi with Marland Backus and Hanano Momose. Music by Tex Crick. [**_Watch Here_**](https://vimeo.com/489974454 "eau-de-parfum-no-1").
 
 [**_Click Here to Purchase_**](https://shop.cafeforgot.com/product/caf-forgot-eau-de-parfum-no-1/2772?cp=true&sa=true&sbp=false&q=false "purchase-eau-de-parfum"). Eau de Parfum No 1 is developed in collaboration with Moscow based nose, Maria Golovina. Scent notes include pink peppercorn, dried rose, almond milk, and new stockings.
+
+<iframe src="https://player.vimeo.com/video/489974454?portrait=0" width="640" height="455" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/489974454">Caf&eacute; Forgot Eau de Parfum N&deg;1</a> from <a href="https://vimeo.com/monikamogi">Monika Mogi</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
