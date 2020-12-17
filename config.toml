@@ -2,4 +2,4 @@ baseURL = "http://cafeforgot.com/"
 title = "CAFÉ FORGOT"
 
 [params]
-  cloudinary_url = "https://res.cloudinary.com/ddl3bmgkm/image/upload/w_auto,dpr_auto"
+  cloudinary_url = "https://res.cloudinary.com/ddl3bmgkm/image/upload/"
