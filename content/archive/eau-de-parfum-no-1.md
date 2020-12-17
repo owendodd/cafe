@@ -7,7 +7,7 @@ open = false
 openingsoon = false
 shopslideshow = ["/v1608037502/cf56_hai0ig.jpg", "/v1608037263/cf81_gkrqbc.jpg", "/v1608037283/IMG_6283_ce5ofw.jpg", "/v1608037485/cf28_hozma0.jpg", "/v1608037529/still9_uo173a.jpg", "/v1608037472/cf16_wksawh.jpg"]
 tickets = false
-video_embed = "<iframe src=\"https://player.vimeo.com/video/489974454?portrait=0\" width=\"640\" height=\"455\" frameborder=\"0\" allow=\"autoplay; fullscreen\" allowfullscreen></iframe> <p><a href=\"https://vimeo.com/489974454\">Café Forgot Eau de Parfum N°1</a> from <a href=\"https://vimeo.com/monikamogi\">Monika Mogi</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>"
+video_embed = "https://player.vimeo.com/video/489974454"
 watchnow = true
 
 +++
