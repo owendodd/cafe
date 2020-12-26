@@ -23,7 +23,7 @@
   <div class="gallery">
     {{ range .Params.gallery }}
     <div class="gallery-image-wrapper">
-      <img class="gallery-image" src="{{$.Site.Params.cloudinary_url}}/{{.}}" />
+      <img class="gallery-image" src="{{.}}" />
     </div>
     {{ end }}
   </div>
@@ -60,7 +60,7 @@
             <div class="slider">
               {{ range .Params.shopslideshow }}
               <div class="slide">
-                <img src="{{$.Site.Params.cloudinary_url}}/{{.}}" />
+                <img src="{{.}}" />
               </div>
               {{ end }}
             </div>
