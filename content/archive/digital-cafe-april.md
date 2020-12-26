@@ -5,7 +5,7 @@ duration = "Apr 2..."
 event = false
 open = true
 openingsoon = false
-shopslideshow = ["/v1607683308/DSC01076_qflcxx.jpg", "/v1607683363/DSC01557_vpyam9.jpg", "/v1607683480/DSC01853_scqbfs.jpg", "/v1607683473/DSC02260_nyuakq.jpg", "/v1607683470/DSC01647_fp5x8n.jpg", "/v1607683431/DSC01618_vgr08k.jpg", "/v1607683351/DSC01126_uvbsmh.jpg", "/v1607683511/DSC01783_ios1ct.jpg", "/v1607683514/DSC02535_fkpoie.jpg", "/v1607683448/DSC01632_d5xrra.jpg"]
+shopslideshow = ["/DSC01076_qflcxx.jpg", "/DSC01557_vpyam9.jpg", "/DSC01853_scqbfs.jpg", "/DSC02260_nyuakq.jpg", "/DSC01647_fp5x8n.jpg", "/DSC01618_vgr08k.jpg", "/DSC01126_uvbsmh.jpg", "/DSC01783_ios1ct.jpg", "/DSC02535_fkpoie.jpg", "/DSC01632_d5xrra.jpg"]
 tickets = false
 watchnow = false
 
