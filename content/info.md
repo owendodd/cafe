@@ -103,6 +103,14 @@ template = "link"
 link_title = "Vogue (June 2020)"
 link_url = "https://www.vogue.com/article/shop-donations-black-lives-matter"
 template = "link"
+[[press]]
+link_title = "Dazed"
+link_url = "https://www.dazeddigital.com/fashion/article/51227/1/cafe-forgot-pratt-institute-class-of-2020-new-york-ceremony-fashion-students"
+template = "link"
+[[press]]
+link_title = "WWD (Dec 2020)"
+link_url = "https://wwd.com/beauty-industry-news/fragrance/underground-n-y-fashion-boutique-releases-perfume-with-notes-of-almond-milk-1234676946/"
+template = "link"
 
 +++
 We (Vita Haas and Lucy Weisner) have been friends since high school in Brooklyn, New York. We attended college together where we talked incessantly about working on collaborative fashion projects.
