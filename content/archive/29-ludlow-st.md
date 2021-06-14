@@ -11,3 +11,4 @@ video_embed = ""
 watchnow = false
 
 +++
+Opening party June 16, 6–8 PM.
