@@ -1,7 +1,7 @@
 +++
 address = "40 W 27th St"
 date = 2021-02-11T05:00:00Z
-duration = "Jan 1"
+duration = "Jan 1—Jun 4"
 event = false
 open = false
 openingsoon = false
