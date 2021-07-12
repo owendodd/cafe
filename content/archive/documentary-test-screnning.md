@@ -7,7 +7,8 @@ open = false
 openingsoon = false
 shopslideshow = []
 tickets = false
-watchnow = true
+video_embed = ""
+watchnow = false
 
 +++
 In light of the pandemic we wanted to share Cyrus Duff's Untitled Café Forgot Documentary, which originally screened at Anthology Film Archives on February 24, 2020. 
