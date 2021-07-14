@@ -29,7 +29,7 @@
   </div>
 
   <div class="toc-wrapper blur">
-    {{ range where site.RegularPages.ByDate.Reverse "Section" "archive" }}
+    {{ range where .Site.RegularPages.ByDate.Reverse "Section" "archive" }}
 
     <div
       class="shop"
