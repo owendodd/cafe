@@ -4,14 +4,14 @@ date = 2021-07-11T04:00:00Z
 duration = "Jul 15, 2021 6—8 PM"
 event = false
 open = false
-openingsoon = true
+openingsoon = false
 shopslideshow = []
 tickets = false
 video_embed = ""
 watchnow = false
 
 +++
-Join us on the evening of Thursday July 15 for a celebration and reading from “VENUS JUICE: When I Tried To Live in LA” by author and healer, Luke Simon.
+On Thursday July 15 we hosted a celebration and reading from “VENUS JUICE: When I Tried To Live in LA” by author and healer, Luke Simon.
 
 ABOUT VENUS JUICE:
 
