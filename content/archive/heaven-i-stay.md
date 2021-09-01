@@ -1,7 +1,6 @@
 +++
 address = "Heaven I Stay"
 date = 2021-08-30T04:00:00Z
-draft = true
 duration = "Aug 31, 2021 4—8 PM"
 event = false
 open = false
