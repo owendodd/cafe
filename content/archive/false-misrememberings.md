@@ -11,4 +11,4 @@ video_embed = ""
 watchnow = false
 
 +++
-A reading at 6BC garden (624 E 6th St NYC) with Honor Levy, Gideon Jacobs, Jennifer Fisher, Rebekah Campbell, and Annie Hamilton
+A reading at 6BC garden (624 E 6th St NYC) with Honor Levy, Gideon Jacobs, Jennifer Fisher, Rebekah Campbell, and Annie Hamilton.
