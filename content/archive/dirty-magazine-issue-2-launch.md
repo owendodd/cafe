@@ -1,5 +1,5 @@
 +++
-address = "Dirty Magazine Issue 2 Launch"
+address = "Dirty Magazine Issue 2"
 date = 2021-08-12T04:00:00Z
 duration = "Aug 12, 2021"
 event = false
