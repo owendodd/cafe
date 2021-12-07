@@ -5,10 +5,10 @@ duration = "Aug 31, 2021 4—8 PM"
 event = false
 open = false
 openingsoon = false
-shopslideshow = ["/000067180027_2.jpg"]
+shopslideshow = []
 tickets = false
 video_embed = ""
 watchnow = false
 
 +++
-Celebratory collaboration with Heaven I Stay, a new shop for vintage designer clothing. 
+Celebratory collaboration with Heaven I Stay, a new shop for vintage designer clothing.
