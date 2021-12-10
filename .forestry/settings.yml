@@ -27,8 +27,8 @@ sections:
   label: Netlify
 upload_dir: static/uploads
 public_path: public/uploads
-front_matter_path: public/uploads
-use_front_matter_path: false
+front_matter_path: ''
+use_front_matter_path: true
 file_template: ":filename:"
 build:
   preview_env:
