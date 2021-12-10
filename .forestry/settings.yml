@@ -25,9 +25,9 @@ sections:
 - type: document
   path: netlify.toml
   label: Netlify
-upload_dir: ''
-public_path: ''
-front_matter_path: ''
+upload_dir: static/uploads
+public_path: public/uploads
+front_matter_path: public/uploads
 use_front_matter_path: true
 file_template: ":filename:"
 build:
