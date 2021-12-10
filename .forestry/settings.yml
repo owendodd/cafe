@@ -26,9 +26,9 @@ sections:
   path: netlify.toml
   label: Netlify
 upload_dir: ''
-public_path: ''
+public_path: public/uploads
 front_matter_path: ''
-use_front_matter_path: true
+use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_env:
