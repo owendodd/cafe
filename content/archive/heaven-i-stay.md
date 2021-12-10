@@ -5,11 +5,7 @@ duration = "Aug 31, 2021 4—8 PM"
 event = false
 open = false
 openingsoon = false
-<<<<<<< HEAD
-shopslideshow = ["/67150010.jpeg", "/67140002.jpeg", "/67160006.jpeg", "/000067180027_2.jpeg", "/000067190016.jpeg", "/000067180015.jpeg", "/67170008.jpeg", "/000067180015.jpg", "/000067190016.jpg", "/67170008.jpg", "/000067180027_2.jpg"]
-=======
-shopslideshow = ["public/uploads/67140002.jpeg", "public/uploads/67150010.jpeg", "public/uploads/67160006.jpeg", "public/uploads/000067180015.jpeg", "public/uploads/000067190016.jpeg", "public/uploads/67170008.jpeg", "public/uploads/000067180027_2.jpeg", "/static/uploads/000067180015.jpg", "/static/uploads/000067190016.jpg", "/static/uploads/67170008.jpg", "/static/uploads/000067180027_2.jpg"]
->>>>>>> ae7f4a41a535bc8977aa865fbc8122b9d4ccc8cd
+shopslideshow = ["/67140002.jpeg", "/67150010.jpeg", "/67160006.jpeg", "/000067180015.jpeg", "/000067190016.jpeg", "/67170008.jpeg", "/000067180027_2.jpeg"]
 tickets = false
 video_embed = ""
 watchnow = false
