@@ -1,6 +1,6 @@
 +++
 address = "Holiday party with Zepherina"
-date = 2021-12-15T05:00:00Z
+date = 2021-12-14T05:00:00Z
 duration = "Dec 17, 2021 6–8 PM"
 event = false
 open = false
