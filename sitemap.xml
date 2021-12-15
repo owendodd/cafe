@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cafeforgot.com/archive/false-misrememberings/</loc>
-    <lastmod>2021-10-13T04:00:00+00:00</lastmod>
+    <loc>http://cafeforgot.com/archive/holiday-party-with-zepherina/</loc>
+    <lastmod>2021-12-15T05:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://cafeforgot.com/archive/</loc>
+    <lastmod>2021-12-15T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/false-misrememberings/</loc>
     <lastmod>2021-10-13T04:00:00+00:00</lastmod>
   </url>
   
