@@ -11,4 +11,4 @@ video_embed = ""
 watchnow = false
 
 +++
-A holiday party in collaboration with Zepherina with a live harp accompaniment by Nora Linde.
+A holiday party in collaboration with Zepherina. Live harp accompaniment by Nora Linde.
