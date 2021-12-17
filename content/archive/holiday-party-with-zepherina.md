@@ -1,10 +1,10 @@
 +++
 address = "Holiday party with Zepherina"
 date = 2021-12-14T05:00:00Z
-duration = "Dec 17, 2021 6–8 PM"
+duration = "POSTPONED"
 event = false
 open = false
-openingsoon = true
+openingsoon = false
 shopslideshow = []
 tickets = false
 video_embed = ""
