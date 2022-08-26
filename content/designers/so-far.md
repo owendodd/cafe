@@ -4,4 +4,4 @@ gallery = []
 title = "so-far"
 
 +++
-So Far is a womenswear label made in NYC by Sophia Fish. Originally designed in Marfa, Texas, So Far takes inspiration from the geometry of the high desert and the relationship these shapes have to the body. Each collection is made using only recycled, dead stock, and sustainable fabrics.
+So Far is a design studio based in NYC producing one of a kind and made to order garments in the spirit of slow fashion, a careful selection of materials, and a love for the process of making. Founded by Sophia Fish in 2019, So Far is an evolving platform for creativity and collaboration.

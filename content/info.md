@@ -111,6 +111,10 @@ template = "link"
 link_title = "WWD (Dec 2020)"
 link_url = "https://wwd.com/beauty-industry-news/fragrance/underground-n-y-fashion-boutique-releases-perfume-with-notes-of-almond-milk-1234676946/"
 template = "link"
+[[press]]
+link_title = "dazed"
+link_url = "https://www.dazeddigital.com/fashion/article/56800/1/horny-class-critique-porn-dystopian-hype-house-boss-gives-employee-facial"
+template = "link"
 
 +++
 Café Forgot is an experimental retail store founded in 2017 by Vita Haas and Lucy Weisner. Located at 29 Ludlow St in NYC, Café Forgot carries the works of avant-garde young designers and hosts a variety of events and programming.
