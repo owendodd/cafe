@@ -1,7 +1,7 @@
 +++
-date = "2018-12-23T08:14:23+00:00"
+date = 2018-12-23T08:14:23Z
+layout = "designers"
 title = "designers"
 type = "designers"
-layout = "designers"
 
 +++
