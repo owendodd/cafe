@@ -11,4 +11,4 @@ video_embed = ""
 watchnow = false
 
 +++
-A holiday 2022 collaboration with Nordstrom SPACE, featuring the work of 19 Café Forgot designers. 
+A holiday 2022 collaboration with Nordstrom SPACE, featuring the work of 19 Café Forgot designers.
