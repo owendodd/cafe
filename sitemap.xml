@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://cafeforgot.com/archive/nordstrom-space/</loc>
-    <lastmod>2022-11-11T05:00:00+00:00</lastmod>
+    <loc>http://cafeforgot.com/archive/ogbff-summer-in-november/</loc>
+    <lastmod>2022-11-16T05:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://cafeforgot.com/archive/</loc>
+    <lastmod>2022-11-16T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://cafeforgot.com/archive/nordstrom-space/</loc>
     <lastmod>2022-11-11T05:00:00+00:00</lastmod>
   </url>
   
