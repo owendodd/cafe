@@ -1,8 +1,7 @@
 +++
 address = "OGBFF Summer in November"
 date = 2022-11-16T05:00:00Z
-draft = true
-duration = "Nov 18—Nov 20"
+duration = "Nov 18—Nov 20, 2022"
 event = false
 open = false
 openingsoon = false
