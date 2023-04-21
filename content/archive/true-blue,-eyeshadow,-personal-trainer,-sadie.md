@@ -5,7 +5,8 @@ duration = "Aug 25, 2019, 5 PM"
 event = true
 open = false
 openingsoon = false
-shopslideshow = []
-
+shopslideshow = [ ]
+_template = "event"
 +++
+
 Larrie and Café Forgot were pleased to host a concert with True Blue, Eyeshadow, Personal Trainer, and Sadie.

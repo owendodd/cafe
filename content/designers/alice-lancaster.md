@@ -1,7 +1,8 @@
 +++
 designer = "Alice Lancaster"
-gallery = []
+gallery = [ ]
 title = "alice-lancaster"
-
+_template = "default"
 +++
+
 Alice Lancaster is an artist and animal rights activist living and working in New York City. Her colorful pieces are all secondhand and one of a kind.

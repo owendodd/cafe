@@ -1,16 +1,17 @@
 +++
 address = "Shawna Wu Lingerie Release Party"
-date = 2023-02-09T05:00:00Z
+date = 2023-02-09T05:00:00.000Z
 duration = "Feb 9, 2023 6—8 PM"
 event = false
 open = false
 openingsoon = false
-shopslideshow = []
+shopslideshow = [ ]
 tickets = false
 video_embed = ""
 watchnow = false
-
+_template = "event"
 +++
+
   
 On Thursday February 9 NYC-based, Taiwanese artist, Shawna Wu launched a new collection of lingerie and ready-to-wear at Café Forgot.
 

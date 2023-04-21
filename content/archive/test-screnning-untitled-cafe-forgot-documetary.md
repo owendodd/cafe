@@ -1,16 +1,17 @@
 +++
-address = "Test Screening: \"Untitled Café Forgot Documentary\""
-date = 2020-02-19T05:00:00Z
+address = 'Test Screening: "Untitled Café Forgot Documentary"'
+date = 2020-02-19T05:00:00.000Z
 duration = "Feb 24, 2020, 8 PM"
 event = true
 open = false
 openingsoon = false
-shopslideshow = []
+shopslideshow = [ ]
 tickets = false
 video_embed = ""
 watchnow = false
-
+_template = "event"
 +++
+
 On February 24th, 2020, Café Forgot and No Agency New York hosted an intimate test screening at Anthology Film Archives of Cyrus Duff's unfinished documentary on Cafe's inception and journey from ephemeral pop-ups to a long-term East Village lease. Duff's documentary also covers the collaboration and conflict between Café Forgot and No Agency New York on a recent shoot. 
 
 **RSVP ONLY — rsvp@noagency.nyc**

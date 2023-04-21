@@ -1,15 +1,16 @@
 +++
 address = "Side Effect: Virtual"
-date = 2020-05-18T04:00:00Z
+date = 2020-05-18T04:00:00.000Z
 duration = "May 21— 24, 2020"
 event = false
 open = false
 openingsoon = false
-shopslideshow = []
+shopslideshow = [ ]
 tickets = false
 watchnow = false
-
+_template = "event"
 +++
+
 Café Forgot in collaboration with Jade Forrest Marks and Cara Marie Piazza hosted a series of virtual workshops focused on healing and catharsis during the time of COVID-19.  
 
 Workshops included: 

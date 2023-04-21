@@ -1,7 +1,8 @@
 +++
 designer = "Zak Syroka"
-gallery = []
+gallery = [ ]
 title = "zak-syroka"
-
+_template = "default"
 +++
+
 Excited by uncontrollable outcomes, Zak Syroka makes use of fabric, dye, and other materials to create one-of-a-kind pieces for on and off the body. Zak lives and works in New York City.
