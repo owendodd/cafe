@@ -1,15 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Designers on CAFÉ FORGOT</title>
     <link>http://cafeforgot.com/designers/</link>
     <description>Recent content in Designers on CAFÉ FORGOT</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 02 Mar 2019 19:04:52 +0000</lastBuildDate>
-    
-	<atom:link href="http://cafeforgot.com/designers/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 02 Mar 2019 19:04:52 +0000</lastBuildDate><atom:link href="http://cafeforgot.com/designers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>official-rebrand</title>
       <link>http://cafeforgot.com/designers/official-rebrand/</link>
@@ -628,7 +624,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cafeforgot.com/designers/gabe-gordon/</guid>
-      <description>Gabe Gordon is a New York based designer and artist currently studying at the Rhode Island School of Design. He makes knitwear exploring themes of grief and sexuality and likes looking at stains, rainbows, and smiley faces.</description>
+      <description>Gabe Gordon is a Providence based knitwear designer currently pursuing his BFA at the Rhode Island School of Design. He is heavily inspired by the decay and nostalgia of worn cloth and his fabrics and garments are an assemblage of his own histories and memories. Each of his pieces are hand-loomed and dyed, made by using discarded yarns from local mills.</description>
     </item>
     
     <item>
@@ -638,6 +634,15 @@
       
       <guid>http://cafeforgot.com/designers/garbage-core/</guid>
       <description>Garbage Core is a project by Milan based designer Giudetta Tanzi. Tanzi makes handmade and one-of-a-kind garments and accessories out of second hand clothing from street markets, friends, and family.</description>
+    </item>
+    
+    <item>
+      <title>giorgiandreazza</title>
+      <link>http://cafeforgot.com/designers/giorgiandreazza/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cafeforgot.com/designers/giorgiandreazza/</guid>
+      <description>Giorgiandreazza is a fashion designer based in Milan, Italy. Her pieces are hand-made from high-quality Italian fabrics.</description>
     </item>
     
     <item>
@@ -665,6 +670,15 @@
       
       <guid>http://cafeforgot.com/designers/hanan-sharifa/</guid>
       <description>Hanan Sharifa is a Brooklyn based artist working in a variety of materials and fabrics including re-purposed denim, mesh, jersey, and satin. In Arabic, Hanan means &amp;ldquo;tender&amp;rdquo; or &amp;ldquo;compassionate&amp;rdquo; , she includes her name on many of her garments in an effort to push against the English language as a global standard. Through this simple act, she is validating not only the Arabic language, but Muslim culture, and expression. Her garments often reveal unseen parts of the body as a way to reimagine the history of fabric into an intersectional contemporary narrative.</description>
+    </item>
+    
+    <item>
+      <title>ibuki-sakai</title>
+      <link>http://cafeforgot.com/designers/ibuki-sakai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cafeforgot.com/designers/ibuki-sakai/</guid>
+      <description>Based in Tokyo, Ibuki works as an artist and fashion model. She shows her unique point of view by using her own photographs or stickers to collage.</description>
     </item>
     
     <item>
@@ -862,7 +876,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://cafeforgot.com/designers/so-far/</guid>
-      <description>So Far is a womenswear label made in NYC by Sophia Fish. Originally designed in Marfa, Texas, So Far takes inspiration from the geometry of the high desert and the relationship these shapes have to the body. Each collection is made using only recycled, dead stock, and sustainable fabrics.</description>
+      <description>So Far is a design studio based in NYC producing one of a kind and made to order garments in the spirit of slow fashion, a careful selection of materials, and a love for the process of making. Founded by Sophia Fish in 2019, So Far is an evolving platform for creativity and collaboration.</description>
     </item>
     
     <item>
@@ -899,6 +913,15 @@
       
       <guid>http://cafeforgot.com/designers/timosassen/</guid>
       <description>timosassen is a self-taught fashion designer and visual artist based in Antwerp and NYC. After years of experimenting in his living room atelier, Sassen founded his eponymous label in 2018, making simple, wearable, sexy pieces in unexpected cuts.</description>
+    </item>
+    
+    <item>
+      <title>toile-studios</title>
+      <link>http://cafeforgot.com/designers/toile-studios/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://cafeforgot.com/designers/toile-studios/</guid>
+      <description>TOILÉ STUDIOS is an independent brand based in Melbourne, Australia that focus on innovative wardrobe solutions. As a fashion practice, TOILÉ STUDIOS is constantly pushing the boundaries of multifunctional garments, with signature detachable, reversible, and transformable features. The pieces can often be worn multiple different ways, encouraging the wearer to explore new ways of interacting with the pieces. TOILÉ STUDIOS finds inspiration from classical archetypes in the past, elevated with innovative aspects of the present, creating the future wardrobe.</description>
     </item>
     
     <item>
