@@ -107,58 +107,7 @@ export default defineConfig({
           ...designerFields(),
         ],
       },
-      {
-        format: "toml",
-        label: "Hugo config",
-        name: "hugo_config",
-        path: ".",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "config",
-        },
-        fields: [
-          {
-            name: "dummy",
-            label: "Dummy field",
-            type: "string",
-            description:
-              "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
-          },
-        ],
-      },
-      {
-        format: "toml",
-        label: "Netlify",
-        name: "netlify",
-        path: ".",
-        frontmatterFormat: "toml",
-        frontmatterDelimiters: "+++",
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        match: {
-          include: "netlify",
-        },
-        fields: [
-          {
-            name: "dummy",
-            label: "Dummy field",
-            type: "string",
-            description:
-              "This is a dummy field, please replace it with the fields you want to edit. See https://tina.io/docs/schema/ for more info",
-          },
-        ],
-      },
+
     ],
   },
 });
