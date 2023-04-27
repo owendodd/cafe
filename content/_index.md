@@ -5,8 +5,6 @@ gallery = [
   "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Gina_Will_2022_103.jpg",
   "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Ami_2022_Look4_006.jpg",
   "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Rachel_4_008.jpg",
-  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/e61a3a43-4e36-4006-a0ca-c4c4d545570f.jpeg",
-  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/b85d0ff3-a4fc-47f9-b0ff-9b3606981ea6.jpeg",
   "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Gina_Will_2022_035.jpg",
   "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/11-09-22_space_cafe-forgot_08_4376x6563.jpg",
   "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/61DFA260-6A01-4807-9870-3B6B01893F37.JPG",
