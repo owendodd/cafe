@@ -2,18 +2,20 @@
 date = "2018-09-04T21:42:35+00:00"
 designer = ""
 gallery = [
-  "/67160006.jpeg",
-  "/e61a3a43-4e36-4006-a0ca-c4c4d545570f.jpeg",
-  "/76f3ef33-5df2-492b-a00f-b9616b4a01e4.jpeg",
-  "/b85d0ff3-a4fc-47f9-b0ff-9b3606981ea6.jpeg",
-  "/2211B3DB-57D5-4EF5-AC11-2A1FA840870C_x9oouo.jpg",
-  "/duane-4_ir2o4f.jpg",
-  "/duane-1_b7wkfb.jpg",
-  "/IMG-9325_srxqbz.png",
-  "/cafeforgot_rose_look1_009_jacmpv.jpg",
-  "/CafeForgot_Sienna_Look1_013_zdnguh.jpg",
-  "/CafeForgot_Sienna_Look2_011_vjgy0p.jpg",
-  "/pictureroom-6_ywrdzl.jpg"
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Gina_Will_2022_103.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Ami_2022_Look4_006.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Rachel_4_008.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/e61a3a43-4e36-4006-a0ca-c4c4d545570f.jpeg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/b85d0ff3-a4fc-47f9-b0ff-9b3606981ea6.jpeg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/Cafe-Forgot_Gina_Will_2022_035.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/11-09-22_space_cafe-forgot_08_4376x6563.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/61DFA260-6A01-4807-9870-3B6B01893F37.JPG",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/9AEA8D44-FB12-4EE3-ACB0-F296772AD9D0.JPG",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/11-09-22_space_cafe-forgot_03_4376x6563.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/11-09-22_space_cafe-forgot_01_4376x6563.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/68940032.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/000311440009.jpg",
+  "https://assets.tina.io/1ae6a04a-9b64-4f13-b92a-d4ada38426c3/uploads/000236400002.jpg"
 ]
 name = ""
 title = "_index"
