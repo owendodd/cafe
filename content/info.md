@@ -16,6 +16,11 @@ link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 
 [[press]]
+link_title = "Wallpaper"
+link_url = "https://www.wallpaper.com/fashion-beauty/best-fashion-stores-new-york-shopping-guide"
+template = "link"
+
+[[press]]
 link_title = "V Magazine"
 link_url = "https://vmagazine.com/article/cafe-forgot-heads-uptown-for-their-pop-up-at-nordstrom/"
 template = "link"
