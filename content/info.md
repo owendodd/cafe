@@ -16,6 +16,11 @@ link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 
 [[press]]
+link_title = "Women's Wear Daily (2022)"
+link_url = "https://wwd.com/fashion-news/fashion-scoops/indie-lower-east-side-boutique-cafe-forgot-pop-up-nordstrom-1235415868/"
+template = "link"
+
+[[press]]
 link_title = "Office Magazine Interview"
 link_url = "http://officemagazine.net/cafe-forgot"
 template = "link"
