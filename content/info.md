@@ -16,6 +16,11 @@ link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 
 [[press]]
+link_title = "V Magazine"
+link_url = "https://vmagazine.com/article/cafe-forgot-heads-uptown-for-their-pop-up-at-nordstrom/"
+template = "link"
+
+[[press]]
 link_title = "GQ"
 link_url = "https://www.gq.com/story/the-gq-hype-list-2023"
 template = "link"
