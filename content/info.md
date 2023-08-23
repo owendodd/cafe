@@ -16,6 +16,11 @@ link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 
 [[press]]
+link_title = "GQ"
+link_url = "https://www.gq.com/story/the-gq-hype-list-2023"
+template = "link"
+
+[[press]]
 link_title = "Vogue (2018)"
 link_url = "https://www.vogue.com/article/cafe-forgot-vita-haas-lucy-weisner"
 template = "link"
