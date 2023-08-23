@@ -16,31 +16,6 @@ link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 
 [[press]]
-link_title = "Women's Wear Daily (2022)"
-link_url = "https://wwd.com/fashion-news/fashion-scoops/indie-lower-east-side-boutique-cafe-forgot-pop-up-nordstrom-1235415868/"
-template = "link"
-
-[[press]]
-link_title = "Office Magazine Interview"
-link_url = "http://officemagazine.net/cafe-forgot"
-template = "link"
-
-[[press]]
-link_title = "Wallpaper"
-link_url = "https://www.wallpaper.com/fashion-beauty/best-fashion-stores-new-york-shopping-guide"
-template = "link"
-
-[[press]]
-link_title = "V Magazine"
-link_url = "https://vmagazine.com/article/cafe-forgot-heads-uptown-for-their-pop-up-at-nordstrom/"
-template = "link"
-
-[[press]]
-link_title = "GQ"
-link_url = "https://www.gq.com/story/the-gq-hype-list-2023"
-template = "link"
-
-[[press]]
 link_title = "Vogue (2018)"
 link_url = "https://www.vogue.com/article/cafe-forgot-vita-haas-lucy-weisner"
 template = "link"
@@ -168,6 +143,31 @@ template = "link"
 [[press]]
 link_title = "dazed"
 link_url = "https://www.dazeddigital.com/fashion/article/56800/1/horny-class-critique-porn-dystopian-hype-house-boss-gives-employee-facial"
+template = "link"
+
+[[press]]
+link_title = "Women's Wear Daily (2022)"
+link_url = "https://wwd.com/fashion-news/fashion-scoops/indie-lower-east-side-boutique-cafe-forgot-pop-up-nordstrom-1235415868/"
+template = "link"
+
+[[press]]
+link_title = "Office Magazine Interview"
+link_url = "http://officemagazine.net/cafe-forgot"
+template = "link"
+
+[[press]]
+link_title = "Wallpaper"
+link_url = "https://www.wallpaper.com/fashion-beauty/best-fashion-stores-new-york-shopping-guide"
+template = "link"
+
+[[press]]
+link_title = "V Magazine"
+link_url = "https://vmagazine.com/article/cafe-forgot-heads-uptown-for-their-pop-up-at-nordstrom/"
+template = "link"
+
+[[press]]
+link_title = "GQ"
+link_url = "https://www.gq.com/story/the-gq-hype-list-2023"
 template = "link"
 +++
 
