@@ -16,6 +16,11 @@ link_url = "https://www.instagram.com/cafe_forgot/?hl=en"
 template = "link"
 
 [[press]]
+link_title = "Office Magazine Interview"
+link_url = "http://officemagazine.net/cafe-forgot"
+template = "link"
+
+[[press]]
 link_title = "Wallpaper"
 link_url = "https://www.wallpaper.com/fashion-beauty/best-fashion-stores-new-york-shopping-guide"
 template = "link"
