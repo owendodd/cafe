@@ -3,10 +3,9 @@ date = 2023-07-26T04:00:00.000Z
 address = "CF T Shirt "
 duration = "Jul 26, 2023"
 shopslideshow = [
-  "/uploads/000067180027_2.jpeg",
-  "/uploads/000370610003.jpg",
-  "/uploads/000370600009.jpg",
-  "/uploads/000370590011.jpg"
+  "/000370610003.jpg",
+  "/000370600009.jpg",
+  "/000370590011.jpg"
 ]
 video_embed = ""
 +++
