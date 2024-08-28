@@ -1,10 +1,8 @@
 +++
+title = "165_duane_st"
+date = 2018-09-25T22:00:00.000Z
 address = "165 Duane St"
-date = 2018-09-29T20:05:04.000Z
 duration = "Aug 2–Sept 29, 2018"
-event = false
-open = false
-openingsoon = false
 shopslideshow = [
   "/duane-2_qlbhhi.jpg",
   "/duane-3_zzbrvu.jpg",
@@ -18,10 +16,11 @@ shopslideshow = [
   "/duane-1_b7wkfb.jpg",
   "/duane-11_ac4s5j.jpg"
 ]
+event = false
+open = false
+openingsoon = false
 tickets = false
-title = "165_duane_st"
 watchnow = false
-_template = "event"
 +++
 
 Photography: Sara Grace Powell, Allegra Sussman, Christian DeFonte. Models: Sara Grace Powell, Kat da Silva, Sabrina Fuentes, Daniela Lalita, Lulu Bonfils, Maggie Lee, Maia Ruth Lee.
