@@ -1,8 +1,8 @@
 +++
 title = "165_duane_st"
-date = 2018-09-25T22:00:00.000Z
+date = 2018-09-27T22:00:00.000Z
 address = "165 Duane St"
-duration = "Aug 2–Sept 29, 2018"
+duration = "Aug 2–Sept 10, 2018"
 shopslideshow = [
   "/duane-2_qlbhhi.jpg",
   "/duane-3_zzbrvu.jpg",
