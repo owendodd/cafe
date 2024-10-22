@@ -7,14 +7,10 @@ open = true
 openingsoon = false
 +++
 
-The Salon by NADA & The Community is a new invitational art fair taking place Thursday, October 17th through Sunday, October 20th in the 10th arrondissement of Paris. No Agency and Café Forgot bring a slice of New York’s cultural scene to NADA Paris, exhibiting one-of-one sculptural pieces from the designers featured in Café Forgot.
+The Salon by NADA & The Community is a new invitational art fair that took place Thursday, October 17th through Sunday, October 20th, 2024 in the 10th arrondissement of Paris. No Agency and Café Forgot export the energy of downtown NYC’s fashion scene curating a selection of sculptural works from the Cafe Forgot's roster of visual-artists-turned-designers. 
 
-*[RSVP](https://thesalon.paris/en "RSVP")*
+If you missed us in Paris, you can view pieces from our installation on [NADA’s website](https://thesalon.paris/en/viewing-rooms/1444 "virtual viewing room")
 
-[30 bis Rue de Paradis
-75010 Paris](https://www.google.com/maps/place/30+bis+Rue+de+Paradis,+75010+Paris,+France/data=!4m2!3m1!1s0x47e66e135eaa0ee9:0xe139cf0cb5ce7b10?sa=X\&ved=1t:242\&ictx=111)
 
-Thu, October 17, 6–8pm /
-Fri, October 18, 11am–8pm /
-Sat, October 19, 11am–8pm /
-Sun, October 20, 11am–6pm /
+
+
