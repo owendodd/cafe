@@ -5,4 +5,4 @@ duration = "Apr 19—Apr 20, 2025"
 shopslideshow = [ "/CFWS_Poster1A.JPG" ]
 +++
 
-An easter weekend soirée with Weedslut's iconic pastel lingerie. Sponsored by Hudson Cannabisin celebration of 4/20. 
+An easter weekend soirée with Weedslut's iconic pastel lingerie. Sponsored by Hudson Cannabis to celebrate 4/20.
