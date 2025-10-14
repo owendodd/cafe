@@ -1,5 +1,5 @@
 +++
-date = 2014-09-10T04:00:00.000Z
+date = 2025-09-10T04:00:00.000Z
 address = "Campbell & Kramer NYFW Takeover"
 duration = "Sept 10—14, 2025"
 shopslideshow = [
